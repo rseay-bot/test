@@ -112,11 +112,11 @@ def main():
     if not a.key:
         sys.exit("Missing API key. Run: python3 places_websites.py --key YOUR_API_KEY")
 
-    with open(a.urls) as f:
+    with open(a.urls, encoding="utf-8", errors="replace") as f:
         urls = [l.strip() for l in f if l.strip()]
     done = {}
     try:
-        with open(OUT, newline="") as f:
+        with open(OUT, newline="", encoding="utf-8-sig", errors="replace") as f:
             for row in csv.DictReader(f):
                 done[row["cardshows_url"]] = row
     except FileNotFoundError:
@@ -132,7 +132,7 @@ def main():
     if todo and not a.yes and input("Type yes to continue: ").strip().lower() != "yes":
         sys.exit("Cancelled.")
 
-    with open(OUT, "a", newline="") as f:
+    with open(OUT, "a", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=COLS)
         if not done:
             w.writeheader()
@@ -158,7 +158,7 @@ def main():
         if row["website"] and row["match"] in ("high", "low") and host not in hosts:
             hosts.add(host)
             sites.append(row["website"])
-    with open("websites.txt", "w") as f:
+    with open("websites.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(sites)) + "\n")
     print(f"done: {counts['high']} high, {counts['low']} low, {counts['none']} no match. "
           f"{len(sites)} unique websites -> websites.txt", file=sys.stderr)

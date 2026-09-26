@@ -54,7 +54,7 @@ out tags;"""
 def fetch_state(state):
     path = os.path.join(CACHE, f"{state}.json")
     if os.path.exists(path):
-        with open(path) as f:
+        with open(path, encoding="utf-8", errors="replace") as f:
             return json.load(f)
     data = urllib.parse.urlencode({"data": query(state)}).encode()
     for attempt in range(6):
@@ -68,7 +68,7 @@ def fetch_state(state):
                 raise RuntimeError(f"incomplete answer ({remark[:80]})")
             elements = body.get("elements", [])
             os.makedirs(CACHE, exist_ok=True)
-            with open(path, "w") as f:
+            with open(path, "w", encoding="utf-8") as f:
                 json.dump(elements, f)
             time.sleep(5)  # be polite to the free public server
             return elements
@@ -125,7 +125,7 @@ def main():
         if rec[0]:
             index.setdefault(rec[0][0], []).append(rec)
 
-    with open("shop_urls.txt") as f:
+    with open("shop_urls.txt", encoding="utf-8", errors="replace") as f:
         urls = [l.strip() for l in f if l.strip()]
 
     rows, missing = [], []
@@ -154,7 +154,7 @@ def main():
         rows.append({"cardshows_url": url, "match": match, "osm_name": best[2],
                      "city": best[3], "state": best[4], "website": best[5]})
 
-    with open("osm_results.csv", "w", newline="") as f:
+    with open("osm_results.csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=["cardshows_url", "match", "osm_name", "city",
                                           "state", "website"])
         w.writeheader()
@@ -165,9 +165,9 @@ def main():
         if host and host not in hosts:
             hosts.add(host)
             sites.append(r["website"])
-    with open("websites.txt", "w") as f:
+    with open("websites.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(sites)) + "\n")
-    with open("not_found.txt", "w") as f:
+    with open("not_found.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(missing) + "\n")
 
     high = sum(r["match"] == "high" for r in rows)

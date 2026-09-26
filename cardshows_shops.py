@@ -180,7 +180,7 @@ STATE = "crawl_state.json"
 
 def crawl(delay, rp):
     try:
-        with open(STATE) as f:
+        with open(STATE, encoding="utf-8", errors="replace") as f:
             st = json.load(f)
         queue, seen, shops = st["queue"], set(st["seen"]), set(st["shops"])
         print(f"resuming crawl: {len(seen)} pages done, {len(queue)} queued", file=sys.stderr)
@@ -188,7 +188,7 @@ def crawl(delay, rp):
         queue, seen, shops = [BASE + "/shops"], set(), set()
 
     def save():
-        with open(STATE, "w") as f:
+        with open(STATE, "w", encoding="utf-8") as f:
             json.dump({"queue": queue, "seen": sorted(seen), "shops": sorted(shops)}, f)
 
     try:
@@ -297,7 +297,7 @@ def main():
 def run(a, rp):
 
     try:
-        with open("shop_urls.txt") as f:
+        with open("shop_urls.txt", encoding="utf-8", errors="replace") as f:
             shops = [l.strip() for l in f if l.strip()]
         print(f"using {len(shops)} shop URLs saved in shop_urls.txt", file=sys.stderr)
     except FileNotFoundError:
@@ -307,11 +307,11 @@ def run(a, rp):
             print("crawling listing pages to fill gaps...", file=sys.stderr)
             found |= crawl(a.delay, rp)
         shops = sorted(found)
-        with open("shop_urls.txt", "w") as f:
+        with open("shop_urls.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(shops) + "\n")
 
     if a.urls_only:
-        with open(a.out, "w", newline="") as f:
+        with open(a.out, "w", newline="", encoding="utf-8-sig") as f:
             w = csv.writer(f)
             w.writerow(["cardshows_url"])
             w.writerows([u] for u in shops)
@@ -320,7 +320,7 @@ def run(a, rp):
 
     done = {}
     try:
-        with open(a.out, newline="") as f:
+        with open(a.out, newline="", encoding="utf-8-sig", errors="replace") as f:
             for row in csv.DictReader(f):
                 done[row["cardshows_url"]] = row
     except (FileNotFoundError, KeyError):
@@ -328,7 +328,7 @@ def run(a, rp):
     todo = [u for u in shops if u not in done]
     print(f"{len(done)} already done, {len(todo)} to visit", file=sys.stderr)
 
-    with open(a.out, "a", newline="") as f:
+    with open(a.out, "a", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
         if not done:
             w.writerow(["cardshows_url", "name", "shop_website"])
@@ -347,7 +347,7 @@ def run(a, rp):
         if site and host not in seen_hosts:
             seen_hosts.add(host)
             sites.append(site)
-    with open("websites.txt", "w") as f:
+    with open("websites.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(sites)) + "\n")
     missing = sum(1 for r in done.values() if not r.get("shop_website"))
     print(f"done: {len(done)} shops, {len(sites)} unique websites -> websites.txt, "
