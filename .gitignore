@@ -4,3 +4,6 @@ shop_urls.txt
 crawl_state.json
 websites.txt
 places_results.csv
+osm_results.csv
+not_found.txt
+osm_cache/
