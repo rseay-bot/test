@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
-"""Collect every card shop URL listed on cardshows.io.
+"""Collect the own websites of every card shop listed on cardshows.io.
 
 Strategy:
   1. Read robots.txt and any sitemaps it lists (fast, complete if present).
   2. Fall back to crawling /shops -> state pages -> region pages -> shop pages,
      following pagination links.
-  3. Optionally (--websites) visit each shop page and pull the shop's own
-     external website link.
+  3. Visit each shop page and pull the shop's own website (JSON-LD first,
+     then a "Website"/"Visit" link, then the first non-social external link).
+
+Outputs:
+  shops.csv     cardshows_url, name, shop_website (one row per listing)
+  websites.txt  unique shop websites, one per line
 
 Standard library only. Respects robots.txt and waits between requests.
+Safe to stop and rerun: rows already in shops.csv are skipped.
 
 Usage:
-  python3 cardshows_shops.py                     # shop page URLs -> shops.csv
-  python3 cardshows_shops.py --websites          # also each shop's own site
+  python3 cardshows_shops.py                     # full run
+  python3 cardshows_shops.py --urls-only         # just the cardshows.io pages
   python3 cardshows_shops.py --delay 1.5 --out my.csv
 """
+import json
 import argparse
 import csv
 import gzip
@@ -174,26 +180,61 @@ def crawl(delay, rp):
     return shops
 
 
+def clean_site(url):
+    u = urllib.parse.urlsplit(url)
+    q = [(k, v) for k, v in urllib.parse.parse_qsl(u.query)
+         if not k.lower().startswith("utm_") and k.lower() not in ("ref", "source")]
+    return urllib.parse.urlunsplit((u.scheme, u.netloc.lower(), u.path.rstrip("/"),
+                                    urllib.parse.urlencode(q), ""))
+
+
+def usable(url):
+    if not url.startswith("http") or is_internal(url):
+        return False
+    host = urllib.parse.urlsplit(url).netloc.lower()
+    return not any(host == s or host.endswith("." + s) for s in SOCIAL)
+
+
+def jsonld_site(html):
+    for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.S | re.I):
+        try:
+            data = json.loads(block)
+        except ValueError:
+            continue
+        stack = [data]
+        while stack:
+            d = stack.pop()
+            if isinstance(d, list):
+                stack.extend(d)
+            elif isinstance(d, dict):
+                stack.extend(v for v in d.values() if isinstance(v, (dict, list)))
+                for key in ("url", "sameAs"):
+                    vals = d.get(key)
+                    for v in vals if isinstance(vals, list) else [vals]:
+                        if isinstance(v, str) and usable(v):
+                            return v
+    return ""
+
+
 def shop_details(url, delay, rp):
     html = fetch(url, delay, rp)
     if not html:
         return "", ""
     m = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
-    name = re.sub(r"<[^>]+>|\s+", " ", m.group(1)).strip() if m else ""
-    ext = [(l, t) for l, t in links_of(html, url)
-           if l.startswith("http") and not is_internal(l)
-           and not any(s in urllib.parse.urlsplit(l).netloc.lower() for s in SOCIAL)]
-    for l, t in ext:
-        if re.search(r"website|visit|site", t, re.I):
-            return name, l
-    return name, ext[0][0] if ext else ""
+    name = " ".join(re.sub(r"<[^>]+>", " ", m.group(1)).split()) if m else ""
+    site = jsonld_site(html)
+    if not site:
+        ext = [(l, t) for l, t in links_of(html, url) if usable(l)]
+        labelled = [l for l, t in ext if re.search(r"website|visit|site|shop online", t, re.I)]
+        site = labelled[0] if labelled else (ext[0][0] if ext else "")
+    return name, clean_site(site) if site else ""
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="shops.csv")
     ap.add_argument("--delay", type=float, default=1.0, help="seconds between requests")
-    ap.add_argument("--websites", action="store_true", help="also grab each shop's own website")
+    ap.add_argument("--urls-only", action="store_true", help="skip visiting each shop page")
     ap.add_argument("--crawl-only", action="store_true", help="skip sitemaps")
     a = ap.parse_args()
 
@@ -208,21 +249,50 @@ def main():
     if len(shops) < 1000:
         print("crawling listing pages to fill gaps...", file=sys.stderr)
         shops |= crawl(a.delay, rp)
-
     shops = sorted(shops)
-    with open(a.out, "w", newline="") as f:
+
+    if a.urls_only:
+        with open(a.out, "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow(["cardshows_url"])
+            w.writerows([u] for u in shops)
+        print(f"done: {len(shops)} shops -> {a.out}", file=sys.stderr)
+        return
+
+    done = {}
+    try:
+        with open(a.out, newline="") as f:
+            for row in csv.DictReader(f):
+                done[row["cardshows_url"]] = row
+    except (FileNotFoundError, KeyError):
+        pass
+    todo = [u for u in shops if u not in done]
+    print(f"{len(done)} already done, {len(todo)} to visit", file=sys.stderr)
+
+    with open(a.out, "a", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["cardshows_url", "name", "shop_website"] if a.websites else ["cardshows_url"])
-        for i, u in enumerate(shops, 1):
-            if a.websites:
-                name, site = shop_details(u, a.delay, rp)
-                w.writerow([u, name, site])
-                if i % 50 == 0:
-                    f.flush()
-                    print(f"details {i}/{len(shops)}", file=sys.stderr)
-            else:
-                w.writerow([u])
-    print(f"done: {len(shops)} shops -> {a.out}", file=sys.stderr)
+        if not done:
+            w.writerow(["cardshows_url", "name", "shop_website"])
+        for i, u in enumerate(todo, 1):
+            name, site = shop_details(u, a.delay, rp)
+            w.writerow([u, name, site])
+            done[u] = {"shop_website": site}
+            if i % 25 == 0:
+                f.flush()
+                print(f"details {i}/{len(todo)}", file=sys.stderr)
+
+    sites, seen_hosts = [], set()
+    for row in done.values():
+        site = row.get("shop_website", "")
+        host = urllib.parse.urlsplit(site).netloc.removeprefix("www.")
+        if site and host not in seen_hosts:
+            seen_hosts.add(host)
+            sites.append(site)
+    with open("websites.txt", "w") as f:
+        f.write("\n".join(sorted(sites)) + "\n")
+    missing = sum(1 for r in done.values() if not r.get("shop_website"))
+    print(f"done: {len(done)} shops, {len(sites)} unique websites -> websites.txt, "
+          f"{missing} listings had no website", file=sys.stderr)
 
 
 if __name__ == "__main__":
