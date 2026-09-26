@@ -1,1 +1,5 @@
 __pycache__/
+shops.csv
+shop_urls.txt
+crawl_state.json
+websites.txt

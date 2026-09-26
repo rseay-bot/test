@@ -42,10 +42,18 @@ SOCIAL = ("facebook.com", "instagram.com", "twitter.com", "x.com", "tiktok.com",
           "pinterest.com", "discord.gg", "discord.com", "yelp.com", "whatnot.com")
 
 
+class RateLimited(Exception):
+    pass
+
+
+PACE = {"delay": 3.0}  # seconds between requests; grows when the site pushes back
+
+
 def fetch(url, delay, rp):
     if rp and not rp.can_fetch(UA, url):
         return None
-    for attempt in range(4):
+    PACE["delay"] = max(PACE["delay"], delay)
+    for attempt in range(6):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as r:
@@ -55,19 +63,28 @@ def fetch(url, delay, rp):
                         data = gzip.decompress(data)
                     except OSError:
                         pass
-                time.sleep(delay)
+                time.sleep(PACE["delay"])
                 return data.decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code in (404, 410):
                 return None
-            wait = 2 ** (attempt + 1) * (5 if e.code == 429 else 1)
-            print(f"  HTTP {e.code} on {url}, retry in {wait}s", file=sys.stderr)
+            if e.code in (429, 503):
+                PACE["delay"] = min(PACE["delay"] * 2, 30)
+                try:
+                    wait = int(e.headers.get("Retry-After", ""))
+                except ValueError:
+                    wait = 60 * (attempt + 1)
+                print(f"  HTTP {e.code} (site says slow down). Waiting {wait}s, "
+                      f"then 1 request every {PACE['delay']:.0f}s", file=sys.stderr)
+            else:
+                wait = 2 ** (attempt + 1)
+                print(f"  HTTP {e.code} on {url}, retry in {wait}s", file=sys.stderr)
             time.sleep(wait)
         except Exception as e:
             wait = 2 ** (attempt + 1)
             print(f"  {e} on {url}, retry in {wait}s", file=sys.stderr)
             time.sleep(wait)
-    return None
+    raise RateLimited(url)
 
 
 class Links(HTMLParser):
@@ -158,26 +175,47 @@ def from_sitemaps(delay, rp):
     return shops
 
 
+STATE = "crawl_state.json"
+
+
 def crawl(delay, rp):
-    queue, seen, shops = [BASE + "/shops"], set(), set()
-    while queue:
-        url = queue.pop(0)
-        if norm(url) in seen:
-            continue
-        seen.add(norm(url))
-        html = fetch(url, delay, rp)
-        if not html:
-            continue
-        before = len(shops)
-        for link, _ in links_of(html, url):
-            if not is_internal(link):
+    try:
+        with open(STATE) as f:
+            st = json.load(f)
+        queue, seen, shops = st["queue"], set(st["seen"]), set(st["shops"])
+        print(f"resuming crawl: {len(seen)} pages done, {len(queue)} queued", file=sys.stderr)
+    except (FileNotFoundError, ValueError, KeyError):
+        queue, seen, shops = [BASE + "/shops"], set(), set()
+
+    def save():
+        with open(STATE, "w") as f:
+            json.dump({"queue": queue, "seen": sorted(seen), "shops": sorted(shops)}, f)
+
+    try:
+        while queue:
+            url = queue[0]
+            if norm(url) in seen:
+                queue.pop(0)
                 continue
-            if is_listing(link) and norm(link) not in seen:
-                queue.append(link)
-            elif is_shop_page(link):
-                shops.add(norm(link))
-        print(f"{len(seen):5d} pages | {len(shops):6d} shops (+{len(shops) - before}) | {url}",
-              file=sys.stderr)
+            html = fetch(url, delay, rp)
+            queue.pop(0)
+            seen.add(norm(url))
+            if not html:
+                continue
+            before = len(shops)
+            for link, _ in links_of(html, url):
+                if not is_internal(link):
+                    continue
+                if is_listing(link) and norm(link) not in seen:
+                    queue.append(link)
+                elif is_shop_page(link):
+                    shops.add(norm(link))
+            print(f"{len(seen):5d} pages | {len(shops):6d} shops (+{len(shops) - before}) | {url}",
+                  file=sys.stderr)
+            if len(seen) % 10 == 0:
+                save()
+    finally:
+        save()
     return shops
 
 
@@ -234,7 +272,7 @@ def shop_details(url, delay, rp):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="shops.csv")
-    ap.add_argument("--delay", type=float, default=1.0, help="seconds between requests")
+    ap.add_argument("--delay", type=float, default=3.0, help="seconds between requests")
     ap.add_argument("--urls-only", action="store_true", help="skip visiting each shop page")
     ap.add_argument("--crawl-only", action="store_true", help="skip sitemaps")
     a = ap.parse_args()
@@ -244,13 +282,33 @@ def main():
         rp.read()
     except Exception:
         rp = None
+    if rp and rp.crawl_delay(UA):
+        a.delay = max(a.delay, float(rp.crawl_delay(UA)))
 
-    shops = set() if a.crawl_only else from_sitemaps(a.delay, rp)
-    print(f"sitemaps gave {len(shops)} shop URLs", file=sys.stderr)
-    if len(shops) < 1000:
-        print("crawling listing pages to fill gaps...", file=sys.stderr)
-        shops |= crawl(a.delay, rp)
-    shops = sorted(shops)
+    try:
+        run(a, rp)
+    except RateLimited as e:
+        print(f"\nStopped: the site kept refusing requests ({e}).\n"
+              f"Progress is saved. Wait an hour, then run the same command again "
+              f"to continue.", file=sys.stderr)
+        sys.exit(1)
+
+
+def run(a, rp):
+
+    try:
+        with open("shop_urls.txt") as f:
+            shops = [l.strip() for l in f if l.strip()]
+        print(f"using {len(shops)} shop URLs saved in shop_urls.txt", file=sys.stderr)
+    except FileNotFoundError:
+        found = set() if a.crawl_only else from_sitemaps(a.delay, rp)
+        print(f"sitemaps gave {len(found)} shop URLs", file=sys.stderr)
+        if len(found) < 1000:
+            print("crawling listing pages to fill gaps...", file=sys.stderr)
+            found |= crawl(a.delay, rp)
+        shops = sorted(found)
+        with open("shop_urls.txt", "w") as f:
+            f.write("\n".join(shops) + "\n")
 
     if a.urls_only:
         with open(a.out, "w", newline="") as f:
