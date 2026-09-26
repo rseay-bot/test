@@ -20,6 +20,7 @@ Usage:
   python3 cardshows_shops.py --urls-only         # just the cardshows.io pages
   python3 cardshows_shops.py --delay 1.5 --out my.csv
 """
+import html as htmllib
 import json
 import argparse
 import csv
@@ -221,7 +222,7 @@ def shop_details(url, delay, rp):
     if not html:
         return "", ""
     m = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
-    name = " ".join(re.sub(r"<[^>]+>", " ", m.group(1)).split()) if m else ""
+    name = htmllib.unescape(" ".join(re.sub(r"<[^>]+>", " ", m.group(1)).split())) if m else ""
     site = jsonld_site(html)
     if not site:
         ext = [(l, t) for l, t in links_of(html, url) if usable(l)]
