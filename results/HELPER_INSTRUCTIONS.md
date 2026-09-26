@@ -37,5 +37,8 @@ Every slug in your chunk must get exactly one line. Before finishing, verify wit
 `python3 -c "import csv;print(sum(1 for _ in csv.DictReader(open('/home/user/test/results/parts/part_NN.csv'))))"`
 and add any missing slugs.
 
+If WebSearch stops working (budget or any error), STOP immediately. Never write placeholder
+rows for shops you did not actually search; leave them out so they can be retried.
+
 Do not git commit. When done, reply with ONLY one line:
 `part NN: X high, Y medium, Z social, W none (total T)`
