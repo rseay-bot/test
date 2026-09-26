@@ -28,7 +28,10 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-OVERPASS = "https://overpass-api.de/api/interpreter"
+# Public Overpass servers; the script rotates to the next one when a server is busy.
+MIRRORS = ["https://overpass-api.de/api/interpreter",
+           "https://overpass.private.coffee/api/interpreter",
+           "https://overpass.kumi.systems/api/interpreter"]
 UA = "cardshop-website-finder/1.0 (personal research)"
 STATES = ("AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT "
           "NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY PR").split()
@@ -39,7 +42,7 @@ CACHE = "osm_cache"
 
 
 def query(state):
-    return f"""[out:json][timeout:180];
+    return f"""[out:json][timeout:300];
 area["ISO3166-2"="US-{state}"]->.s;
 (
   nwr["shop"~"^({SHOP_TYPES})$"](area.s);
@@ -54,19 +57,26 @@ def fetch_state(state):
         with open(path) as f:
             return json.load(f)
     data = urllib.parse.urlencode({"data": query(state)}).encode()
-    for attempt in range(5):
+    for attempt in range(6):
         try:
-            req = urllib.request.Request(OVERPASS, data=data, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=240) as r:
-                elements = json.load(r).get("elements", [])
+            req = urllib.request.Request(MIRRORS[attempt % len(MIRRORS)], data=data,
+                                         headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=360) as r:
+                body = json.load(r)
+            remark = body.get("remark", "")
+            if "error" in remark.lower() or "timed out" in remark.lower():
+                raise RuntimeError(f"incomplete answer ({remark[:80]})")
+            elements = body.get("elements", [])
             os.makedirs(CACHE, exist_ok=True)
             with open(path, "w") as f:
                 json.dump(elements, f)
             time.sleep(5)  # be polite to the free public server
             return elements
         except urllib.error.HTTPError as e:
-            wait = 60 * (attempt + 1) if e.code in (429, 504) else 10 * (attempt + 1)
-            print(f"  {state}: HTTP {e.code}, waiting {wait}s", file=sys.stderr)
+            wait = 30 if e.code in (429, 504) else 10
+            nxt = urllib.parse.urlsplit(MIRRORS[(attempt + 1) % len(MIRRORS)]).netloc
+            print(f"  {state}: HTTP {e.code} (server busy), trying {nxt} in {wait}s",
+                  file=sys.stderr)
             time.sleep(wait)
         except Exception as e:
             wait = 10 * (attempt + 1)
