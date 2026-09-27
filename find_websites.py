@@ -30,6 +30,7 @@ Safe to stop and rerun: finished shops are skipped.
 Usage:
   python3 find_websites.py
   python3 find_websites.py --limit 50     # quick test first
+  python3 find_websites.py --urls search_remaining.txt   # only shops not yet resolved
 """
 import argparse
 import concurrent.futures as cf
@@ -203,10 +204,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="only process this many shops (test)")
     ap.add_argument("--workers", type=int, default=16, help="sites checked at once")
+    ap.add_argument("--urls", default="shop_urls.txt",
+                    help="list of shops to process (full URLs or bare slugs), e.g. search_remaining.txt")
     a = ap.parse_args()
 
-    with open("shop_urls.txt", encoding="utf-8", errors="replace") as f:
+    with open(a.urls, encoding="utf-8", errors="replace") as f:
         urls = [l.strip() for l in f if l.strip()]
+    urls = [u if u.startswith("http") else "https://cardshows.io/shops/" + u for u in urls]
     osm = {r["cardshows_url"]: r for r in load_csv("osm_verified.csv")}
     if not osm:
         print("note: osm_verified.csv not found, guessing for every shop", file=sys.stderr)
