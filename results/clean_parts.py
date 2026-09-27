@@ -17,7 +17,7 @@ for p in sorted(glob.glob('parts/part_*.csv')):
         w = csv.DictWriter(f, fieldnames=['cardshows_url', 'website', 'confidence', 'note'])
         w.writeheader(); w.writerows(keep)
     allrows += keep
-allrows += list(csv.DictReader(open('search_results.csv', encoding='utf-8')))
+allrows += [r for r in csv.DictReader(open('all_results.csv', encoding='utf-8-sig')) if r['confidence'] in ('high', 'social', 'none')]
 done = {r['cardshows_url'] for r in allrows}
 todo = [l.strip() for c in sorted(glob.glob('chunks/chunk_*.txt')) for l in open(c) if l.strip()]
 left = [s for s in todo if 'https://cardshows.io/shops/' + s not in done]
