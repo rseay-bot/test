@@ -48,6 +48,9 @@ UA = "Mozilla/5.0 (compatible; cardshop-website-finder/1.0; one homepage visit p
 OUT = "found_websites.csv"
 COLS = ["cardshows_url", "website", "source", "confidence", "page_title"]
 STOP = {"llc", "inc", "co", "ltd"}
+SHOP_WORDS = {"card", "cards", "sportscards", "sports", "sport", "games", "game", "gaming",
+              "comics", "comic", "collectibles", "collectables", "collectible", "tcg", "hobby",
+              "hobbies", "toys", "memorabilia", "breaks", "shop", "store", "trading"}
 CARD_WORDS = ("card", "tcg", "pokemon", "magic", "mtg", "comic", "collect", "hobby",
               "game", "sport", "yugioh", "onepiece", "lorcana", "memorabilia", "break")
 PARKED = ("domainforsale", "buythisdomain", "isforsale", "hugedomains", "afternic",
@@ -82,6 +85,8 @@ def candidates(url):
         if k < 1:
             continue
         name, city = toks[:k], toks[k:]
+        if any(w in SHOP_WORDS for w in city):
+            continue  # "cards", "games", etc. belong to the name, not the city
         variants = [name]
         if name[0] == "the" and len(name) > 1:
             variants.append(name[1:])
