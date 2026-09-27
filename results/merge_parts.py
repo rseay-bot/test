@@ -17,6 +17,8 @@ def unique(conf):
     seen, res = set(), []
     for r in out:
         host = urllib.parse.urlsplit(r['website']).netloc.lower().removeprefix('www.')
+        if conf == 'social':  # every page shares facebook.com; dedupe on the full URL
+            host = r['website'].lower().rstrip('/')
         if r['confidence'] == conf and host and host not in seen:
             seen.add(host); res.append(r['website'])
     return sorted(res)

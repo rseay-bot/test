@@ -8,6 +8,8 @@ for p in sorted(glob.glob('parts/part_*.csv')):
     rows = list(csv.DictReader(open(p, encoding='utf-8')))
     keep = []
     for r in rows:
+        if not r['confidence'].strip() and r['website'].strip().lower() == 'none':
+            r['confidence'] = 'none'  # helper put 'none' in the website column
         if r['confidence'] not in VALID or FAKE.search(r['note']):
             continue
         if r['website'].strip().lower() == 'none':

@@ -1,7 +1,7 @@
 cardshows_url,website,confidence,note
 https://cardshows.io/shops/dreamers-vault-games-south-saint-paul-south-st-paul,https://www.dreamersvault.com/,high,chain
-https://cardshows.io/shops/dreamz-sportscards-joliet,none,none,no matching shop found in Joliet
-https://cardshows.io/shops/drhunters-tcg-mt-pleasant,none,none,not found
+https://cardshows.io/shops/dreamz-sportscards-joliet,,none,no matching shop found in Joliet
+https://cardshows.io/shops/drhunters-tcg-mt-pleasant,,none,not found
 https://cardshows.io/shops/drn-cards-bloomington,https://www.facebook.com/TheDRNCards/,social,"chain, facebook only"
 https://cardshows.io/shops/drn-cards-chandler,https://www.facebook.com/TheDRNCards/,social,"chain, facebook only"
 https://cardshows.io/shops/drn-cards-springfield,https://www.facebook.com/TheDRNCards/,social,"chain, facebook only"
@@ -28,21 +28,21 @@ https://cardshows.io/shops/dynasty-sports-and-framing-northshore-mall-peabody,ht
 https://cardshows.io/shops/dzcollectibles-long-island-oceanside,https://dzcollectiblesli.com/,high,
 https://cardshows.io/shops/e-and-j-boutique-brooklyn,https://www.facebook.com/EandJBoutiquebrooklyn/,social,
 https://cardshows.io/shops/e-and-k-sports-cards-moundsville,https://www.eandksportscards.com/,high,
-https://cardshows.io/shops/e-card-shop-pasadena,none,none,"no independent site found, only directory listings"
-https://cardshows.io/shops/e-n-js-cards-derry,none,none,no matching shop found
+https://cardshows.io/shops/e-card-shop-pasadena,,none,"no independent site found, only directory listings"
+https://cardshows.io/shops/e-n-js-cards-derry,,none,no matching shop found
 https://cardshows.io/shops/eagel-sports-promotions-inc-tuckahoe,https://www.eagelpromotions.com/,medium,"sports memorabilia/charity auction company, not a typical card shop"
 https://cardshows.io/shops/eagles-baseball-card-shop-caldwell,https://www.facebook.com/eaglesbaseballcardshop/,social,
 https://cardshows.io/shops/eagles-baseball-card-shop-kent,https://www.ebay.com/str/eaglescards,medium,"ebay store used as storefront, no own site or facebook found"
 https://cardshows.io/shops/earthworld-albany,https://www.earthworldcomics.com/,high,
 https://cardshows.io/shops/east-carolina-collectibles-vintage-toys-comic-books-baseball-cards-robersonville,https://eastcarolinacollectibles.com/,high,
-https://cardshows.io/shops/east-coast-cards-and-nerds-palm-bay,none,none,"no own website found, only directory listings"
+https://cardshows.io/shops/east-coast-cards-and-nerds-palm-bay,,none,"no own website found, only directory listings"
 https://cardshows.io/shops/east-coast-collectibles-card-shop-middletown,https://www.ec3con.com/,high,
 https://cardshows.io/shops/east-coast-collectibles-clifton-park,https://eastcoastcollectibles.shop/,high,
 https://cardshows.io/shops/east-coast-gaming-cary,https://e-c-gaming.com/,high,
 https://cardshows.io/shops/east-coast-lyndhurst,https://www.eastcoastconnection.net/,high,
 https://cardshows.io/shops/eastside-artifacts-austin,https://www.eastsideartifacts.com/,high,
-https://cardshows.io/shops/easy-surplus-llc-great,none,none,"firearms/surplus company, not a card shop"
-https://cardshows.io/shops/echantium-cards-pasadena,none,none,no matching shop found
+https://cardshows.io/shops/easy-surplus-llc-great,,none,"firearms/surplus company, not a card shop"
+https://cardshows.io/shops/echantium-cards-pasadena,,none,no matching shop found
 https://cardshows.io/shops/eclipse-cards-hobby-north-richland-hills,https://eclipsecardsandhobby.com/,high,
 https://cardshows.io/shops/eds-card-shop-nevada,https://edscardshop.com/,high,
 https://cardshows.io/shops/effortlex-tcg-reservation-required-new-york,https://www.effortlex.com/,high,
@@ -50,9 +50,9 @@ https://cardshows.io/shops/eg-collectibles-bear,https://egcollectiblesde.com/,hi
 https://cardshows.io/shops/eh-cards-vintage-sports-cards-collectibles-westborough,https://ehcards.com/,high,
 https://cardshows.io/shops/el-cardboard-tcg-lounge-pawtucket,https://elcardboard.shop/,high,
 https://cardshows.io/shops/el-paso-collectibles-trading-cards-and-more-llc-el-paso,https://elpasocollectiblestradingcardsandmorellc.us/,high,
-https://cardshows.io/shops/electric-city-comics-schenectady,none,none,"no official website found, only directories"
+https://cardshows.io/shops/electric-city-comics-schenectady,,none,"no official website found, only directories"
 https://cardshows.io/shops/elegant-octopus-games-tacoma,https://www.facebook.com/ElegantOctopus/,social,
-https://cardshows.io/shops/eli-card-box-stamford,none,none,no matching shop found
+https://cardshows.io/shops/eli-card-box-stamford,,none,no matching shop found
 https://cardshows.io/shops/elite-3-tcg-trading-cards-pokemon-cards-charlotte,https://www.elite3tcg.com/,high,
 https://cardshows.io/shops/elite-cards-and-collects-miami,https://www.elitecardsandcollects.com/,high,
 https://cardshows.io/shops/elite-ink-bloomington,http://www.elite-ink.com/,high,
@@ -63,18 +63,18 @@ https://cardshows.io/shops/elite-sports-cards-philadelphia,https://www.instagram
 https://cardshows.io/shops/elite-sportscards-massillon,https://elite-sportscards.edan.io/,high,
 https://cardshows.io/shops/elizabethtown-sports-cards-elizabethtown,https://www.facebook.com/ElizabethtownSportsCards/,social,
 https://cardshows.io/shops/elm-city-games-new-haven,https://www.elmcitygames.com/,high,
-https://cardshows.io/shops/elwerm-emporium-roswell,none,none,"not found, unclear if real card shop"
+https://cardshows.io/shops/elwerm-emporium-roswell,,none,"not found, unclear if real card shop"
 https://cardshows.io/shops/emerald-city-comics-games-toys-clearwater,https://emeraldcitycomics.com/,high,
 https://cardshows.io/shops/end-zone-hobby-center-clearfield,https://end-zone-hobby-center.edan.io/,high,
 https://cardshows.io/shops/endlesstcg-pokemon-shop-north-las-vegas,https://endlesstcg.com/,high,
 https://cardshows.io/shops/endzone-collectibles-rochester,https://endzonecollectibles.com/,high,
-https://cardshows.io/shops/enexeo-llc-brookland,none,none,"appears to be clothing retailer, not a card shop"
+https://cardshows.io/shops/enexeo-llc-brookland,,none,"appears to be clothing retailer, not a card shop"
 https://cardshows.io/shops/entertainmart-colorado-springs,https://entertainmart.com/locations/colorado-springs,high,chain
 https://cardshows.io/shops/entertainment-hobby-shop-jungle-anime-jungle-los-angeles,https://animejungle.net/,high,
 https://cardshows.io/shops/envy-cards-williston,https://envycardstore.com/,high,
 https://cardshows.io/shops/epic-card-cave-toms-river,https://www.epictradingcollectibles.com/,medium,"found as Epic Trading Collectibles at this location, name mismatch"
 https://cardshows.io/shops/epic-card-quest-hagerstown,https://epiccardquest.com/,medium,"online store, Hagerstown physical location unconfirmed"
-https://cardshows.io/shops/epic-collector-and-sports-cards-llc-tupelo,none,none,"no own website or social found, only directories"
+https://cardshows.io/shops/epic-collector-and-sports-cards-llc-tupelo,,none,"no own website or social found, only directories"
 https://cardshows.io/shops/epic-xp-st-louis,https://epicxp.store/,high,
 https://cardshows.io/shops/erics-collectibles-pueblo,https://www.facebook.com/Ericscollectibles719/,social,
 https://cardshows.io/shops/esco753sports-san-diego,https://www.esco753sports.com/,high,
@@ -82,7 +82,7 @@ https://cardshows.io/shops/esp-joes-sports-cards-little-falls-township,https://w
 https://cardshows.io/shops/ethans-sports-cards-and-more-lancaster,https://www.facebook.com/p/Ethans-Sports-Cards-More-Shop-100088714193453/,social,
 https://cardshows.io/shops/euphies-cards-and-collectibles-san-antonio,https://euphiescc.com/,high,
 https://cardshows.io/shops/eureka-puzzles-games-brookline,https://eurekapuzzles.com/,high,
-https://cardshows.io/shops/ev-sports-maple-grove,none,none,no matching shop found
+https://cardshows.io/shops/ev-sports-maple-grove,,none,no matching shop found
 https://cardshows.io/shops/evans-sports-cards-collectibles-voorhees-township,https://www.evanssportsnj.com/,high,
 https://cardshows.io/shops/evansville-otters-team-store-evansville,https://www.evansvilleotters.com/,high,minor league baseball team store
 https://cardshows.io/shops/evolution-collection-highland,https://evolution-collection.com/,high,
@@ -92,10 +92,10 @@ https://cardshows.io/shops/evolutions-trading-killeen,https://evolutionstradingl
 https://cardshows.io/shops/evolve-cards-and-collectibles-columbus,https://evolvecardsandcollectibles.com/,high,
 https://cardshows.io/shops/excalibur-sports-alaska-anchorage,https://www.excaliburalaska.com/,high,
 https://cardshows.io/shops/exploding6-gaming-supply-westport,https://www.exploding6.com/,high,
-https://cardshows.io/shops/ezacury-cards-and-games-yuma,none,none,no matching shop found
+https://cardshows.io/shops/ezacury-cards-and-games-yuma,,none,no matching shop found
 https://cardshows.io/shops/f-g-sportscards-elkhart,https://www.facebook.com/p/FG-Sportscards-100057176450808/,social,
 https://cardshows.io/shops/fabled-gaming-west-jordan,https://fabledgamingtcg.tcgplayerpro.com/,high,
-https://cardshows.io/shops/factory-fresh-tcg-alta-loma,none,none,no matching shop found
+https://cardshows.io/shops/factory-fresh-tcg-alta-loma,,none,no matching shop found
 https://cardshows.io/shops/fad-habits-miami,https://www.instagram.com/fadhabits.shop/,social,
 https://cardshows.io/shops/family-cards-and-games-margate,https://familycag.com/,high,
-https://cardshows.io/shops/e-e-baseball-card-shop-rolesville,none,none,"no own website or social found, only directory listings"
+https://cardshows.io/shops/e-e-baseball-card-shop-rolesville,,none,"no own website or social found, only directory listings"
