@@ -5,3 +5,13 @@ promtgshop.crystalcommerce.com|unknown|Pro MTG Shop, Philadelphia PA, CrystalCom
 cardboxllc.com|unknown|CardBox, San Antonio TX, MTG sealed boxes
 pairadicegames.com|unknown|Pair A Dice Games, Vista CA, carries MTG
 final-form.shop|shopify|Final Form, Dallas TX, MTG sealed and singles
+wyldergaming.com|unknown|Wylder Gaming, Austin TX, MTG and other TCG products
+phoenixrisetx.com|unknown|Phoenix Rise, Fort Worth TX, MTG sealed product
+dragonshqfw.com|unknown|Dragon's HQ, Fort Worth TX, MTG sealed
+gamecornersj.square.site|square|Game Corner San Jose, CA, MTG sealed in stock
+getsomegame.com|unknown|GetSomeGame, Charlotte NC, MTG singles and sealed
+crowntowngames.com|shopify|Crown Town Games, Charlotte NC area, local game store
+phoenixseattle.com|shopify|Phoenix Comics and Games, Seattle WA, MTG booster boxes
+cardexchangegaming.com|unknown|Card Exchange, Seattle WA, carries MTG booster boxes
+gameheadquarters.com|unknown|Game HQ, Oklahoma City OK, large tabletop store with MTG sealed
+comixcitytoo.com|unknown|Comix City Too, Madison TN near Nashville, comics and MTG
