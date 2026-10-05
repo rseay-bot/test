@@ -1,1 +1,29 @@
 collectons.com|sealed|unknown|/shop/item/ pages for Edge of Eternities play and collector booster boxes with prices
+collectinghaven.store|no_mtg|unknown|Pokemon and Lorcana online store, no MTG seen
+collectivelnk.tcgplayerpro.com|mtg|unknown|Lincoln NE card shop with weekly Magic events, no sealed page seen
+collectizzles.com|no_mtg|woocommerce|Pokemon and One Piece booster box product pages only
+collectormaniaparker.com|mtg|unknown|Parker CO game store with Magic drafts, no product pages indexed
+collectorparadise.com|unknown|unknown|domain not indexed
+collectors-hangout.com|mtg|unknown|Norwalk OH shop carries MTG, no sealed product page seen
+collectors-xchange.com|not_store|unknown|buying hub by appointment, no retail
+collectorsattic.com|no_mtg|unknown|sports memorabilia and championship rings
+collectorsboxde.com|mtg|unknown|Newark DE card shop stocks MTG, no product page seen
+collectorscertifiedgrading.com|not_store|unknown|card grading company
+collectorscornernw.com|mtg|shopify|carries MTG per site, shop subdomain with /products/ but no MTG sealed page seen
+collectorscornershop.com|no_mtg|unknown|sports cards and Pokemon only
+collectorscove.com|sealed|unknown|categories page lists draft set and collector boosters
+collinscards.com|not_store|unknown|non-commercial baseball card trading site
+coloradocollectibleshow.com|not_store|unknown|weekly collectible show, no online shop
+comic-figure-addicts.square.site|unknown|square|nothing indexed on domain
+comiccosmiccollectivesandgames.com|mtg|unknown|Bowie MD comic and game store, no product pages
+comicgrapevinelodi.com|mtg|unknown|Lodi CA comic shop sells MTG cards, no product pages
+comics-n-stuff.com|sealed|woocommerce|Return to Ravnica booster pack under /shop/ with price
+comixzone.com|sealed|unknown|March of the Machine Aftermath draft booster product page
+completecollectibles.net|no_mtg|unknown|Pokemon Digimon Dragon Ball only
+coopersportscollectibles.com|no_mtg|unknown|sports memorabilia and cards
+coopersvillecardvault.com|mtg|wix|sports card shop, MTG only mentioned
+coops907.square.site|unknown|square|nothing indexed
+cosmiccollectibles53566.com|mtg|unknown|sanctioned MTG events and prereleases, no product pages
+counterspellgames.com|unknown|unknown|domain not indexed
+crashnbashhobbies.com|no_mtg|unknown|RC hobby shop
+crockssports.com|no_mtg|unknown|sports cards Pokemon Funko no MTG

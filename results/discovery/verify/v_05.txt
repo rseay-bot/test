@@ -28,3 +28,33 @@ blackharborgaming.tcgplayerpro.com|mtg|tcgplayerpro|Largo FL store sells MTG via
 bleacherssports.com|no_mtg|unknown|sports memorabilia framing and sports cards
 bluecrabsportscards.com|mtg|unknown|homepage lists Magic among singles and wax; no product page seen
 bluegrassscm.com|no_mtg|unknown|sports cards and memorabilia
+bluewave-mancave.square.site|no_mtg|square|autographed sports memorabilia and apparel only
+blusportscards.com|sealed|woocommerce|MTG play booster and booster box product pages with prices
+bobbecksports.com|no_mtg|unknown|vintage sports cards static site no MTG
+boccollectibles.net|mtg|unknown|FL card shop lists Magic among games no sealed page indexed
+boisecardguys.com|unknown|unknown|nothing indexed on site; sports card store
+boldo.com|mtg|unknown|Boldo's Armory game shop stocks Magic boosters per results no product page
+bookeryfantasy.com|no_mtg|unknown|comics and collectibles shop no MTG seen
+boxseatcards.com|no_mtg|woocommerce|sports cards and Pokemon shop no MTG seen
+bozemansportscards.com|no_mtg|unknown|sports cards and Pokemon no MTG seen
+breakingbadsportscards.com|no_mtg|shopify|sports cards and memorabilia only
+breakingbinders.com|no_mtg|woocommerce|custom card binder party business no MTG
+breakpoint.tcgplayerpro.com|unknown|unknown|nothing indexed
+brentscardsandcoins.com|mtg|unknown|local store mentions MTG cards no sealed product page
+brickhousegaming.com|mtg|unknown|MTG singles only seen
+bridgeporthobby.com|no_mtg|unknown|sports card shop no MTG seen
+brosts.com|unknown|unknown|aquarium and game shop mentions collectible card games no MTG page
+bryansc.com|no_mtg|unknown|sports Pokemon One Piece shop no MTG seen
+bsbsportscollection.com|no_mtg|square|Pro Club apparel shop
+bsidegame.com|mtg|unknown|game store carries MTG boosters and commander decks per homepage no product page
+buckssportscards.com|no_mtg|squarespace|sports cards store no MTG seen
+buffalosportscardconvention.com|not_store|unknown|card show event listing only
+buggysbazaar.com|no_mtg|unknown|sealed Pokemon One Piece Yu-Gi-Oh listed no MTG seen
+bullpenburbank.com|mtg|unknown|sports card shop also carries Magic per listings no sealed page
+bullrush.com|not_store|unknown|financial trading platform
+burtonbreaks.com|no_mtg|unknown|sports cards and Pokemon no MTG seen
+bussinorbustin.shop|mtg|shopify|online TCG store mentions MTG boosters policy pages no product page
+buyandsellchampionshiprings.com|no_mtg|woocommerce|championship rings only
+buyselltradecards.com|unknown|unknown|nothing indexed on site
+bwabreaks.com|no_mtg|unknown|sports card breaks only
+cajunbreaker.com|mtg|woocommerce|personal boxes category mentions MTG and booster box pages for other TCGs no MTG product page
