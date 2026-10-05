@@ -1,3 +1,55 @@
 floth.vercel.app|mtg|unknown|homepage lists MTG booster packs and hobby boxes categories but no product page seen
 freedomcgs.squarespace.com|not_store|squarespace|card grading service pricing and about pages only
 frissongaming.org|mtg|shopify|local game store Clearfield UT mentions MTG; only board game product pages seen
+forcedmarchgames.com|not_store|unknown|PC game developer (Hannibal), not retail
+fordscards.com|unknown|unknown|nothing indexed
+franklinsportscards.com|no_mtg|unknown|sports cards store Franklin MA, no MTG seen
+frankscoolstuff.net|mtg|unknown|comics/anime shop Salem VA, homepage mentions MTG boosters no product page
+freddyssportscards.com|no_mtg|square|sports cards El Paso, /products/ols/all no MTG
+frgcollectibles.tcgplayerpro.com|mtg|tcgplayerpro|TCGplayer pro seller storefront sells MTG, no sealed page seen
+frontiertradingcompany.net|not_store|unknown|thrift and antiques store Tallahassee
+frostsportscardaddicts.com|sealed|woocommerce|shop has Mtg booster category
+funstopinc.com|mtg|unknown|Trumbull CT collectibles store lists MTG, no product page seen
+gainesvillecollectibles.myshopify.com|no_mtg|shopify|antiques coins comics shop, no MTG seen
+gajominis.com|no_mtg|unknown|miniatures wargaming store Sandy UT, static pages no MTG seen
+galaxygaming-htx.com|mtg|unknown|Houston card shop homepage lists MTG, no product page seen
+gambithobby.com|mtg|woocommerce|Livonia MI card shop, MTG pauper draft event page, no sealed page
+game-chest.shoplightspeed.com|no_mtg|lightspeed|Sioux Falls game store Lorcana and CookieRun products, no MTG seen
+gamechangercards.com|no_mtg|unknown|sports cards seller Moorhead MN
+gamedaysportsmemorabilia.com|no_mtg|shopify|autographed sports memorabilia
+gamehavenstg.com|mtg|unknown|St George UT game store homepage mentions MTG boosters, no product page
+gamenuttopeka.tcgplayerpro.com|mtg|tcgplayerpro|Topeka hobby shop TCGplayer seller, nothing indexed on site
+gameonri.com|mtg|unknown|Warwick RI game store hosts MTG events, no shop pages
+gamersguildboulder.com|mtg|unknown|Boulder store sells MTG packs and singles per homepage, league page, no product page
+gamershq.com|no_mtg|unknown|video game and Pokemon store, no MTG seen
+gamerworld.us|no_mtg|woocommerce|gaming gear and repair store /product/ pages, no MTG seen
+games4lessfl.com|no_mtg|unknown|video game store since 1994, no MTG seen
+gamesbyjames.com|mtg|custom|MTG.php catalog gallery, site says in-store inventory only
+gamesirl.com|mtg|unknown|MTG draft and event schedule pages, no shop pages
+gamesofconcord.com|mtg|custom|catalog set pages and singles, sealed not clearly seen
+gamespluswa.net|mtg|unknown|WA game store with MTG prerelease event pages, no product pages
+gametimeauthentics.com|unknown|unknown|nothing indexed
+gametimefanstore.com|unknown|unknown|nothing indexed
+gametimehobbies.com|mtg|unknown|Auburn AL store weekly update mentions MTG booster boxes on sale, no shop pages
+gamevaultfl.com|sealed|custom|Magic the Gathering Series catalog page plus Lorcana booster pack catalog
+gamingwithdragons.com|mtg|unknown|Stockton CA store MTG commander events, no shop pages
+gatewaygamesak.square.site|mtg|square|Ketchikan AK store homepage lists MTG, no product pages indexed
+gccsm.com|mtg|unknown|Gulf Coast Cards sports memorabilia and Magic cards per listing, no product page
+geekroomgames.com|mtg|wordpress|Omaha store with MTG event pages, no product pages
+geekshack.shop|mtg|unknown|Las Cruces store online inventory mentions MTG, no product page indexed
+gemmint.com|no_mtg|unknown|PSA grading submission dealer and card shows, no MTG
+gemmintcardhouse.com|no_mtg|shopify|Pokemon cards PSA dealer Sugar Land TX, Pokemon product page only
+gemminttwinssportscards.com|no_mtg|unknown|sports cards and Pokemon store, no MTG seen
+generationotaku.wixsite.com|no_mtg|wix|anime store Wilmington DE, no MTG seen
+generationsportscards.com|no_mtg|unknown|Muncie IN sports card shop, sealed wax sports only
+getexcitedcc.com|mtg|unknown|Billings MT shop trading card shop page mentions MTG, no product pages
+getoutpost.net|not_store|unknown|directory of local shop listings, not a retailer
+getyourfunon.com|mtg|woocommerce|Melbourne FL shop product pages MTG minis deckboxes sleeves singles, no sealed seen
+gizmossportscards.com|no_mtg|unknown|sports cards and memorabilia, no MTG seen
+globalauthentics.com|not_store|unknown|autograph authentication service
+goldengrading.com|not_store|unknown|card grading service, not retail
+goldrushnh.com|no_mtg|unknown|coin and jewelry shop Dover NH
+goodgamesna.com|sealed|unknown|store.goodgamesna.com booster box product pages (Strixhaven, Kamigawa, Double Masters)
+goosepoopgames.com|no_mtg|shopify|indie RPG publisher /products/ pages, no MTG
+gotccardsandgaming.com|mtg|unknown|Monroeville PA store MTG draft and FNM event listings, no product pages
+gottagetemcollectables.tcgplayerpro.com|mtg|tcgplayerpro|Virginia Beach TCGplayer Pro storefront, nothing indexed on site

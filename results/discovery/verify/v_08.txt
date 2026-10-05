@@ -3,3 +3,55 @@ dragonsguildhall.biz|mtg|unknown|local game store with Magic events but no produ
 dragonshaunt.com|mtg|unknown|carries MTG per about page but no product pages seen
 duelingland.square.site|mtg|square|homepage says carries MTG and takes preorders but no product pages seen
 eagelpromotions.com|not_store|unknown|sports fundraising promotions business
+dragonslayergames.tcgplayerpro.com|mtg|unknown|Tulsa store hosts MTG events; no product pages indexed
+drum-pepper-m3jp.squarespace.com|no_mtg|squarespace|JJ Collectibles video games toys legos only
+dynamicgradingauthority.com|not_store|unknown|card grading service
+eandksportscards.com|mtg|woocommerce|shop lists MTG among sports cards; no sealed page seen
+eastcarolinacollectibles.com|mtg|unknown|buys and sells MTG; no sealed product page seen
+eastcoastcollectibles.shop|mtg|shopify|MTG collection coming soon
+ebay.com|not_store|unknown|marketplace not a single retailer
+edscardshop.com|mtg|unknown|Nevada MO shop sells MTG cards; no sealed page seen
+effortlex.com|no_mtg|wix|Pokemon and Yu-Gi-Oh graded cards only
+elfnmoon.com|mtg|unknown|RPG store with MTG Commander events only
+elite-memorabilia.com|no_mtg|unknown|sports memorabilia graded cards
+elite-sportscards.edan.io|no_mtg|unknown|sports cards store Massillon OH
+elite3tcg.com|no_mtg|wix|Japanese Pokemon boosters only
+elitecardsandcollects.com|unknown|unknown|nothing indexed on site
+elitesportscardsandcomics.com|unknown|unknown|Chicago shop gaming cards; no MTG pages indexed
+elitesportscardsandcomics2.com|unknown|unknown|Chicago shop gaming cards; no MTG pages indexed
+elpasocollectiblestradingcardsandmorellc.us|unknown|unknown|El Paso sport and nonsport cards; nothing indexed on MTG
+empirememorabilia.com|no_mtg|wix|sports memorabilia and printing
+end-zone-hobby-center.edan.io|mtg|unknown|Clearfield UT hobby store lists Magic The Gathering; no sealed page seen
+endlesstcg.com|no_mtg|shopify|Japanese Pokemon only
+endzonecollectibles.com|no_mtg|woocommerce|sports cards and supplies shop
+enterprisegames.com|no_mtg|unknown|board wargames only
+entertainmart.com|mtg|unknown|Vintage Stock online store; game cards mentioned no MTG sealed page seen
+epiccardquest.com|no_mtg|shopify|Pokemon cards only
+esco753sports.com|no_mtg|unknown|sports memorabilia San Diego
+estatesportscollectibles.com|no_mtg|unknown|sports cards and memorabilia buyer
+eternalgamesllc.com|mtg|unknown|Warren MI game store MTG events only
+euphiescc.com|unknown|ecwid|board games and supplies; no MTG pages indexed
+evansvilleotters.com|not_store|unknown|minor league baseball team site
+evolutionempiretcg.com|no_mtg|unknown|Pokemon only store
+evolutionstradingllc.tcgplayerpro.com|mtg|unknown|Killeen TX hobby store sells Pokemon and Magic; no product pages indexed
+evolvecardsandcollectibles.com|sealed|shopify|Aetherdrift collector booster display product page
+excaliburalaska.com|no_mtg|shopify|licensed sports apparel store
+exmachinagaming.com|not_store|wordpress|blog spam pages claim MTG retail; no shop pages
+exploding6.com|sealed|shopify|Outlaws of Thunder Junction play booster and commander deck products
+ezgamingllc.tcgplayerpro.com|mtg|unknown|Greensboro NC TCG store sells MTG; no product pages indexed
+fabledgamingtcg.tcgplayerpro.com|mtg|unknown|West Jordan UT store sells MTG singles; no product pages indexed
+facebook.com|not_store|unknown|social platform
+familycag.com|mtg|unknown|Broward hobby shop MTG Commander events; no sealed page seen
+famousfacesandfunnies.com|no_mtg|unknown|comic book and toy store
+fancaveindy.com|unknown|unknown|Indianapolis card shop focused on Pokemon; no MTG pages indexed
+fansonlysportscards.com|no_mtg|unknown|sports cards shop Lees Summit
+fantasticrealmz.tcgplayerpro.com|unknown|unknown|Fairbanks hobby shop TCG; no MTG pages indexed
+farharborgamingllc.com|mtg|unknown|game store getting into MTG; no sealed page seen
+fastbreaksportsfanshq.com|no_mtg|unknown|sports cards and supplies
+fatkatzsportscards.com|mtg|unknown|store carries Magic and Yu-Gi-Oh; site under construction
+fatpackscards.com|unknown|unknown|nothing indexed on site
+fenjet-sports-cards.shop|no_mtg|unknown|sports card shop Fair Lawn NJ
+fenrisgaminghall.com|mtg|unknown|marketing site for Hagerstown store; offers MTG; no sealed page seen
+fieldofdreamstexas.com|no_mtg|unknown|sports memorabilia store Frisco TX
+findsanddivesshop.com|unknown|unknown|collectibles shop with Pokemon booster product; no MTG seen
+firstroundpicksohio.com|no_mtg|wix|Pokemon collection box product page; no MTG seen
