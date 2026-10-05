@@ -1,1 +1,60 @@
 middletennesseegaming.com|mtg|unknown|homepage indexed mentions Magic the Gathering but no sealed product page seen
+mayhemcomics.com|mtg|unknown|curbside page mentions booster box preorders but no product page
+meadhallgames.com|mtg|unknown|Magic section and cart page but no sealed product page seen
+mediamencardsandcollectibles.com|mtg|unknown|about page says carries Magic; no product pages indexed
+meeples-games.shoplightspeed.com|sealed|lightspeed|TMNT play booster display and collector booster product pages
+mehgames.info|mtg|unknown|homepage mentions Magic; no product pages
+mguinc.com|mtg|unknown|events and buylist pages; no sealed product page
+montasy.com|sealed|shopify|Final Fantasy play booster box product page
+mrniceguygames.com|sealed|crystalcommerce|catalog magic_sealed preconstructed deck pages
+mtgcardmarket.com|not_store|unknown|physical store closed; no indexed shop pages
+mtglion.com|not_store|unknown|MTG blog articles only
+myshopville.com|sealed|shopify|Final Fantasy play booster box product page
+mythicgamescolorado.com|mtg|unknown|singles ordering and inventory update pages; no sealed product page
+nerdvana.com|mtg|unknown|homepage Magic singles kiosk and events
+nexuswaco.com|mtg|unknown|preorder page seen is Lorcana only; Magic deck rental
+nimbustcgames.com|mtg|unknown|homepage Magic singles and events
+nomadsden.company.site|unknown|square|comics and gaming store; no MTG indexed
+novagamesnj.com|mtg|unknown|homepage mentions sealed packs but no product page
+numiru.com|mtg|unknown|homepage claims MTG sealed; no product page
+nyhccomics.com|sealed|woocommerce|product-category magic-the-gathering booster boxes
+odysseygamesco.com|mtg|unknown|blog post mentions Magic play only
+okcripscards.com|mtg|unknown|homepage mentions MTG and sealed boxes generally
+omegafrog.com|mtg|unknown|homepage mentions MTG booster packs; no product page
+orbsportscards.com|sealed|shopify|shop subdomain Edge of Eternities play booster display
+other-realms.com|mtg|unknown|MTG product info and prerelease event pages
+owlcentralgames.com|sealed|crystalcommerce|Foundations collector booster display product page
+pairadicegames.com|mtg|unknown|prerelease and draft event pages only
+pangaeagaming.com|sealed|unknown|Final Fantasy play booster box product page
+papertigercards.com|mtg|shopify|MTG singles product pages only
+patagiumgames.com|mtg|shopify|collectible MTG items; no standard sealed boosters
+pcgoldinc.com|no_mtg|unknown|computer store
+perfectstormmtg.net|mtg|unknown|homepage mentions sealed and singles; no product page
+philshobbyshop.com|no_mtg|unknown|RC and model trains hobby shop
+phoenixrisetx.com|sealed|unknown|homepage lists Play Booster Pack and Commander Deck best sellers
+phoenixseattle.com|sealed|shopify|Hobbit play booster box product page
+planargames.com|mtg|unknown|homepage lists Magic; no product pages
+planetcomicsgreenville.com|sealed|shopify|Bloomburrow play booster display product page
+playthegamereadthestory.com|sealed|unknown|Final Fantasy play booster pack and box product page
+pokenola.com|no_mtg|shopify|Pokemon One Piece Lorcana only
+polyhedrongaming.com|sealed|crystalcommerce|catalog Magic Products box sets booster boxes
+popculturenh.com|mtg|unknown|homepage lists Magic the Gathering
+popshophq.com|sealed|unknown|sealed product and collectibles page with MTG boosters
+pota-games.com|unknown|unknown|game store; no MTG indexed
+powerninegaming.com|sealed|crystalcommerce|catalog booster packs and booster boxes sections
+primetimecardsandgames.godaddysites.com|mtg|godaddy|landing page; inventory on primetimemagic.com
+primetimegilbert.com|mtg|shopify|MTG singles product pages only
+promtgshop.crystalcommerce.com|mtg|crystalcommerce|singles and accessories; no sealed seen
+qstaffepc.square.site|unknown|square|Quarterstaff Games webstore; nothing indexed
+rainbowcomicsandcards.com|sealed|unknown|MTG booster box product page
+ribbittcgcollectibles.com|mtg|unknown|homepage mentions Magic; no product pages
+rivertowngames.square.site|sealed|square|Theros booster box product page
+rng-gamez.com|sealed|shopify|Foundations play booster display product page
+roguerobotmn.com|unknown|unknown|comics and games store; no MTG indexed
+sanctuarybooksandgames.com|mtg|unknown|homepage lists Magic; no product pages
+seikatsu.store|unknown|unknown|nothing indexed
+shop.fabricatorsforge.com|sealed|shopify|Reality Fracture play booster display product page
+shop.greengatehobbies.com|sealed|shopify|Final Fantasy play booster box product page
+shopnocturnaltcg.com|no_mtg|unknown|Pokemon and One Piece shop
+shopofmagic.com|sealed|shopify|Foundations play booster display product page
+shopthemerchantvault.com|unknown|unknown|nothing indexed
