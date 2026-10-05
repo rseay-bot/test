@@ -1,0 +1,6 @@
+stadiumcc.com|mtg|unknown|homepage snippet mentions MTG singles and boxes, no product page seen
+steamshipgames.com|mtg|unknown|catalog pages for MTG singles only
+store.capitalbooksonk.com|sealed|unknown|Phyrexia AWBO collector booster box item page and MTG games section
+the-gathering-place.mybigcommerce.com|sealed|bigcommerce|Foundations collector booster box product page with price
+thecollectorsbench.com|sealed|shopify|collections/booster-boxes MTG booster cases
+thecomicbookshoppe.com|sealed|shopify|Aetherdrift play booster box /products/ page with price
