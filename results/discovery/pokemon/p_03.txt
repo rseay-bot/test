@@ -1,0 +1,40 @@
+comicworldandgames.com|no_pokemon|only MTG card-games page indexed
+comixcitytoo.com|no_pokemon|homepage and MTG sealed article only
+commandercomplete.com|no_pokemon|MTG commander deck product pages only
+commandergameslv.com|pokemon_other|homepage title lists Pokemon but no product page
+coolcomicsandgames.com|pokemon_other|homepage mentions Pokemon cards no product page
+critical-hit.com|pokemon_other|singles stock page mentions Pokemon no sealed page
+crowntowngames.com|unknown|nothing indexed
+ctshobbies.com|unknown|nothing indexed
+darktowerlgs.com|no_pokemon|only unrelated Roblox blog post indexed
+descentintogaming.com|pokemon_other|homepage mentions Pokemon no product page
+discheroesllc.com|unknown|nothing indexed
+dragonshqfw.com|pokemon_other|site pages mention Pokemon boosters and ETBs no product page
+dukecity.games|pokemon_sealed|Obsidian Flames booster box and ETB product pages
+e-c-gaming.weebly.com|pokemon_other|homepage mentions Pokemon TCG no product page
+enlighteningmindsgaming.com|pokemon_other|homepage lists Pokemon no product page
+firstturngamescedarrapids.com|pokemon_other|FAQ mentions Pokemon no product page
+galactictradingchi.com|pokemon_other|homepage mentions Pokemon booster boxes and ETBs no product page
+final-form.shop|unknown|nothing indexed
+fromthevaultgames.com|unknown|nothing indexed
+gamecornersj.square.site|pokemon_other|homepage mentions Pokemon no product page
+gamedepotaz.com|unknown|nothing indexed
+gameempirepasadena.com|no_pokemon|only trade-ins page indexed no Pokemon
+gamergearllc.com|pokemon_other|homepage mentions Pokemon sealed product no product page
+gamersarmory.com|pokemon_other|events page mentions Pokemon no sealed product page
+gamershavenco.com|pokemon_other|Pokemon CCG category page no sealed product page
+gamesoffremont.com|pokemon_other|homepage mentions Pokemon singles and packs no product page
+gametheoryak.com|pokemon_other|Pokemon events mentioned no product page
+gametopiaroc.com|no_pokemon|only MTG singles page indexed
+gatherandgamestore.com|pokemon_other|homepage says stocks Pokemon no product page
+geekerygamesstore.shop|pokemon_other|homepage title lists Pokemon no product page
+genesiscomicsandgaming.com|pokemon_other|homepage mentions Pokemon sealed no product page
+getsomegame.com|pokemon_other|homepage mentions Pokemon sealed category no product page
+grovewarden.games|pokemon_other|shop page mentions Pokemon on shelves no product page
+herbscoinshop.com|unknown|nothing indexed
+heroesandhorrorsgames.com|pokemon_other|Pokemon open play event page no product page
+heroesandvillains.shop|pokemon_other|homepage mentions Pokemon cards no product page
+hobby-hole.com|pokemon_other|homepage and events mention Pokemon no product page
+hobiihouse.com|pokemon_other|homepage mentions Pokemon sealed and ETBs no product page
+infinitecomicsandcards.com|pokemon_other|trading cards page mentions Pokemon no product page
+irlcards.com|pokemon_other|homepage mentions Pokemon cards no product page
