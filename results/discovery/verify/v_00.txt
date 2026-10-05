@@ -53,3 +53,8 @@ darktowerlgs.com|mtg|unknown|homepage mentions MTG no product pages
 davesportscards.com|no_mtg|unknown|sports cards shop; MTG listed coming soon
 deckedoutgaming.com|not_store|unknown|MTG sealed pages but Australian store
 descentintogaming.com|mtg|unknown|MTG events only
+desertskygames.com|sealed|unknown|Commander Legends draft booster box /product/ page
+discheroesllc.com|mtg|unknown|homepage says singles and packs; no product pages
+dlairhouston.com|sealed|shopify|Kaladesh booster pack and Warhammer 40K commander deck /products/ pages
+dragonshqfw.com|mtg|unknown|pages say sealed carried; no product pages
+dragonskeep.com|sealed|shopify|shop.dragonskeep.com Challenger Deck and Arena Starter Kit /products/ pages

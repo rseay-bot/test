@@ -46,3 +46,15 @@ infinitygamelounge.com|sealed|shopify|Play booster pack and booster box product 
 irlcards.com|mtg|unknown|MTG events page and homepage only
 izzisgym.com|mtg|unknown|MTG page describes sealed products, no product page seen
 jjckcollectibles.com|mtg|unknown|Homepage lists MTG among cards, no product page seen
+jnjgamesnhobbies.com|mtg|unknown|Homepage says carries MTG, no product page seen
+justforfungames.net|mtg|unknown|Homepage mentions MTG only
+justgamesrochester.com|sealed|shopify|shop subdomain MTG Marvel collector booster box product pages
+k0scardshop.com|sealed|shopify|MTG Fallout commander deck product page on tcg subdomain
+kaboom.games|unknown|unknown|Nothing indexed for domain
+kabsportscards.com|mtg|unknown|Products page lists MTG boosters, no product page
+kaleidotcg.com|no_mtg|unknown|Pokemon One Piece Gundam Riftbound store, no MTG
+kaskadegames.com|mtg|unknown|Brownsville card shop sells MTG, no product pages indexed
+kingpincomicsandgaming.com|mtg|unknown|Homepage only says buys and sells MTG
+kowabungacomics.com|mtg|unknown|MTG prerelease and events pages only
+levelupknox.com|mtg|wordpress|MTG prerelease event pages only
+marylandtcg.com|sealed|unknown|Homepage lists MTG booster box and collector booster case items
