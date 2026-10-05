@@ -51,3 +51,10 @@ clesportscollectiblesoh.com|no_mtg|unknown|sports cards and collectibles store
 cloudcollectibles.my.canva.site|mtg|unknown|Canva site, buys sells MTG, no product pages
 cmcardhaven.com|mtg|unknown|Vero Beach FL TCG shop, sealed mentioned, no product page seen
 coastalcardsdtsp.com|mtg|unknown|St Petersburg FL events with MTG vendors, no product page
+coastalrcspeedway.com|mtg|unknown|RC hobby shop with Play Magic page, boosters mentioned, no product pages
+cobra-cards.com|no_mtg|unknown|sports cards and Pokemon shop
+coins-n-cards.hub.biz|no_mtg|unknown|Butte MT sports cards listing page
+coliseumcardco.tcgplayerpro.com|mtg|unknown|Metairie LA TCG shop carries MTG, subdomain not indexed
+collect702.com|no_mtg|unknown|sports cards eBay seller
+collectiblebuyers.com|mtg|unknown|Duluth MN buyer mentions MTG, no shop pages
+collectiblecardsbellflower.com|unknown|unknown|Bellflower CA trading card store, no MTG specifics indexed

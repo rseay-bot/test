@@ -56,3 +56,5 @@ dndscollectables.com|unknown|wix|ambiguous business, nothing indexed on domain
 dogsofwargaming.square.site|unknown|square|Palm Bay FL wargaming store, MTG not confirmed
 dogtowncollectibles.com|no_mtg|unknown|St Louis sports memorabilia and framing
 doubleplaysportscards.com|unknown|unknown|Corpus Christi cards and comics shop, site not indexed
+downthelinecards.com|not_store|unknown|under construction sports cards placeholder
+dragonparlorgames.com|mtg|unknown|MTG events prereleases and allocation info pages, no shop product pages
