@@ -31,3 +31,10 @@ advantagegames.co|pokemon_other|team page only mentions Pokemon
 alexsmvp.com|no_pokemon|sports cards page only no Pokemon seen
 allstarscollectibles.com|pokemon_other|MAGIC page mentions Pokemon boxes no product pages
 athlonauthentics.com|pokemon_other|online store nav has Pokemon category but no Pokemon product seen
+atomicgamingga.com|unknown|nothing indexed
+azlinscards.com|pokemon_other|store page mentions Pokemon cards online ordering no sealed product page
+banditos.net|pokemon_other|Pokemon TCG events page no product pages
+banitaford.wixsite.com|unknown|nothing indexed
+battlemaxxgaming.com|pokemon_other|homepage mentions Pokemon and boxes in stock no product page
+bayoustatesportscards.com|unknown|nothing indexed
+beckett.com|pokemon_other|news articles and graded price guide only no sealed shop page
