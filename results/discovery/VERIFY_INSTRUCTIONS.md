@@ -3,6 +3,9 @@
 Input: /home/user/test/results/discovery/verify/q_NN.txt (one host per line).
 Use ONLY WebSearch. Do NOT WebFetch or curl store sites (the network blocks them).
 
+RATE LIMIT: run searches ONE AT A TIME (never several WebSearch calls in one message).
+Skip hosts already listed in verify/v_NN.txt.
+
 For EVERY host, in order:
 1. Search `site:HOST magic the gathering booster` (pass allowed_domains: ["HOST"]).
 2. If that returns nothing useful, ONE more: `site:HOST mtg` (allowed_domains ["HOST"]).
@@ -24,6 +27,7 @@ Save after every 10 hosts:
     host|verdict|platform|evidence (one short phrase, e.g. "MH3 play booster box product page")
     EOF
 
-No | inside fields. Every host gets exactly one line. If WebSearch fails (budget or any error),
+No | inside fields. Every host gets exactly one line. If WebSearch returns too_many_requests, retry that same search up to 3 times (one call at a time).
+If it still fails, or any other error,
 STOP immediately; never write rows for hosts you did not search. Do not git commit.
 Final reply ONLY: `verify NN: S sealed, M mtg, N no_mtg, X not_store, U unknown (total T)`
