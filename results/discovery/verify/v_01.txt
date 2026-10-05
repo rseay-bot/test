@@ -6,3 +6,43 @@ firstturngamescedarrapids.com|mtg|unknown|homepage mentions MTG and drafts only
 fortressofgaming.com|unknown|wix|only home and code of conduct indexed no MTG
 fpnyc.com|sealed|unknown|MTG play booster pack product pages with prices
 galactictradingchi.com|mtg|unknown|homepage mentions booster boxes but no product page indexed
+final-form.shop|mtg|shopify|Dallas card store sells MTG sealed per snippets but no product page seen
+fromthevaultgames.com|mtg|unknown|MTG store homepage only, no shop pages
+gamecornersj.square.site|mtg|square|Square site with MTG category, no sealed product page seen
+gamedepotaz.com|mtg|unknown|Tempe game store carries MTG, no shop pages indexed
+gameempirepasadena.com|mtg|unknown|MTG draft events and trade-ins pages only
+gameheadquarters.com|sealed|magento|Foundations play booster box product page
+gameonmichigan.com|sealed|wix|Ixalan booster box and MH3 prerelease kit product pages
+gamergearllc.com|mtg|unknown|Homepage mentions MTG sealed but no product page seen
+gamersarmory.com|mtg|unknown|MTG draft events, catalog is accessories and wargame packs
+gamersguildazcards.com|sealed|shopify|Zendikar Rising collector booster box product page
+gamershavenco.com|mtg|unknown|Colorado Springs store has MTG CCG page, no sealed product page seen
+gamerslinkgames.com|mtg|unknown|Homepage only, MTG Pokemon YuGiOh store
+gamersvaultonline.com|sealed|unknown|Online catalog with MTG booster boxes and packs categories
+gamesforfun.com|no_mtg|woocommerce|Billiards and game room equipment retailer
+gamesoffremont.com|mtg|unknown|Homepage says MTG singles packs accessories, no product page seen
+gamesroomhq.com|no_mtg|shopify|Pool tables and game room equipment only
+gametheoryak.com|mtg|unknown|MTG events and prereleases only, no shop pages
+gametopiaroc.com|mtg|unknown|MTG singles page and games page, no sealed product page seen
+gatherandgamestore.com|mtg|squarespace|Buffalo game store stocks MTG per snippet, no MTG product page seen
+gatheringplacegames.com|sealed|wordpress|Products archive with play booster box and pack prices
+geekerygamesstore.shop|mtg|unknown|Flagstaff store homepage lists MTG and sealed, no product page seen
+genesiscomicsandgaming.com|mtg|unknown|Homepage says MTG singles and sealed in store, no product page seen
+getsomegame.com|mtg|crystalcommerce|Catalog with MTG singles and promos, no sealed product page seen
+greentowergames.com|not_store|unknown|Domain parked at GoDaddy
+grovewarden.games|mtg|unknown|Shop page and homepage mention MTG sealed, no product page seen
+gryphon.coop|not_store|unknown|Cooperative with kids camp and D&D guild pages
+gryphongamesandcomics.com|sealed|comichub|Throne of Eldraine Brawl deck display product page
+habithobbyshop.com|unknown|unknown|Nothing indexed for site
+herbscoinshop.com|mtg|wordpress|Magic page mentions booster boxes but no product page
+heroesandhorrorsgames.com|mtg|wordpress|MTG prerelease and event pages only
+heroesandvillains.shop|mtg|shopify|Homepage lists Magic cards, no sealed product page seen
+hexnyc.com|sealed|wix|Double Masters booster box preorder page with price
+hobby-hole.com|mtg|unknown|Shop has MTG playmat product, events, no sealed page seen
+hobiihouse.com|mtg|unknown|Cincinnati TCG shop homepage lists MTG sealed, no product page seen
+houseofcardsnola.com|no_mtg|wix|Sports cards and memorabilia store
+infinitecomicsandcards.com|mtg|wordpress|Trading cards page mentions MTG boosters, no product page seen
+infinitygamelounge.com|sealed|shopify|Play booster pack and booster box product pages
+irlcards.com|mtg|unknown|MTG events page and homepage only
+izzisgym.com|mtg|unknown|MTG page describes sealed products, no product page seen
+jjckcollectibles.com|mtg|unknown|Homepage lists MTG among cards, no product page seen

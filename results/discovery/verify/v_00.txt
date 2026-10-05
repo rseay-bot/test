@@ -3,3 +3,53 @@ allinonecollectibles.com|mtg|unknown|MTG singles and events pages only
 allstar-comics.com|mtg|unknown|homepage says stocks MTG no product pages
 alternateu.com|sealed|unknown|store.alternateu.com catalog MTG sealed collector booster pages with price
 astralcastle.com|mtg|unknown|archive CCG lists mention MTG no sealed product page
+5cgaming.com|mtg|unknown|MTG-focused card shop Springfield MO no product page seen
+901games.mysiteengine.com|no_mtg|unknown|board game venue; only Lorcana and Pokemon events seen
+abovethemetavt.com|mtg|unknown|homepage says sells MTG no product pages
+accoladescollectibles.com|mtg|unknown|MTG near me page and /shop live inventory no sealed product page
+alexandria-bookstore.com|not_store|unknown|MTG sealed pages but priced in RM (Malaysia) not US
+backwoodswizards.com|sealed|unknown|Bloomburrow play booster and bundle product pages
+bargys.com|sealed|shopify|Lorwyn booster box /products/ page
+basesloaded-fresno.com|mtg|unknown|homepage mentions MTG boosters sells via eBay no product pages
+bigbrothercomics.com|mtg|unknown|MTG events only
+black-moon-games.com|mtg|unknown|/shop page and MTG events no sealed product page seen
+blastoffgaming.com|mtg|unknown|mentions MTG Hobbit collector boxes no product page seen
+bluebridgegames.square.site|sealed|square|Core 2019 booster box /product/ page with price
+bookbrokercollectibles.com|mtg|unknown|blog posts and page mentioning sealed; no product page
+brapsmagic.com|sealed|unknown|catalog booster boxes with prices
+brickhousecollectibles.com|mtg|unknown|homepage lists MTG releases no product pages
+bullpenfresno.com|mtg|unknown|homepage mentions MTG no product pages
+cantongames.com|mtg|wix|collectible games page and events; no sealed product page seen
+cardboardgarage.com|sealed|woocommerce|Foundations play booster box /product/ page
+cardboxllc.com|mtg|unknown|homepage says booster boxes and collector boosters no product page
+cardexchangegaming.com|sealed|crystalcommerce|Return to Ravnica booster box catalog page with price
+cardexchangesports.com|sealed|woocommerce|Aetherdrift play booster display product page
+catchemallcardscollectiblessc.com|mtg|unknown|Pokemon and sports focus; MTG only mentioned
+cavernsandforests.com|mtg|unknown|homepage mentions play boosters in-store pickup no product page
+celestialgamesflorida.com|sealed|square|Commander deck and Jumpstart /shop/p/ product pages
+checkmategames.net|mtg|unknown|products page singles and MTG events no sealed seen
+chicagolandgames.com|mtg|wix|shop page MTG singles and events no sealed product page
+cleverbaysportsandgaming.com|mtg|unknown|MTG mentioned, card breaks; no sealed product page
+collectemagainwaco.com|no_mtg|unknown|sports cards Pokemon vintage toys shop; no MTG seen
+collectomaniacs.com|mtg|unknown|products page and MTG tournaments no sealed product page
+comic4ce.com|mtg|unknown|comic shop MTG buy/trade page no sealed product page
+comicworldandgames.com|mtg|unknown|card-games page says sealed sold; no product page seen
+comixcitytoo.com|mtg|unknown|MTG events only
+commandercomplete.com|mtg|shopify|custom commander decks /products/ but no sealed product
+commandergameslv.com|mtg|unknown|homepage says packs and sets; no product pages
+commonroomgames.com|sealed|unknown|online store page with MTG booster boxes and prices
+computerandgaminguniverse.com|sealed|crystalcommerce|Ikoria booster box catalog page with price
+coolcomicsandgames.com|mtg|unknown|homepage mentions sealed MTG no product pages
+coretcg.com|sealed|unknown|Magic booster boxes /Products/ pages with prices
+cornermagicgames.com|sealed|shopify|Unsanctioned box set /products/ page
+cosmiccardshop.net|no_mtg|unknown|sports cards and Pokemon shop; no MTG seen
+crggamesllc.com|sealed|shopify|Marvel Super Heroes play booster /products/ page with price
+critical-hit.com|mtg|unknown|singles via TCGPlayer and events; no sealed product page
+criticalhitgames.biz|sealed|woocommerce|Ikoria commander deck /product/ page
+crowntowngames.com|mtg|shopify|singles only /products/ pages
+ctshobbies.com|mtg|unknown|MTG events only
+darkdepthsgames.com|sealed|zencart|Innistrad Remastered play booster box product page with price
+darktowerlgs.com|mtg|unknown|homepage mentions MTG no product pages
+davesportscards.com|no_mtg|unknown|sports cards shop; MTG listed coming soon
+deckedoutgaming.com|not_store|unknown|MTG sealed pages but Australian store
+descentintogaming.com|mtg|unknown|MTG events only

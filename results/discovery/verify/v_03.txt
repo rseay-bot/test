@@ -4,3 +4,57 @@ store.capitalbooksonk.com|sealed|unknown|Phyrexia AWBO collector booster box ite
 the-gathering-place.mybigcommerce.com|sealed|bigcommerce|Foundations collector booster box product page with price
 thecollectorsbench.com|sealed|shopify|collections/booster-boxes MTG booster cases
 thecomicbookshoppe.com|sealed|shopify|Aetherdrift play booster box /products/ page with price
+showgoatcards.com|mtg|unknown|Metairie LA card shop; MTG grading mention only, no product pages
+spudstcg.com|sealed|woocommerce|Kamigawa Neon Dynasty bundle product page (/product/)
+sunshinegamesonline.com|mtg|unknown|Tampa shop sells MTG boosters per homepage; no product pages seen
+tcgtrinketsbst.com|unknown|unknown|Durham card shop sells sealed; MTG not mentioned
+thecomicdimension.com|mtg|unknown|Magic the Gathering page with boosters and singles; no cart pages seen
+thecomicsplace.com|sealed|shopify|shop.thecomicsplace.com /products/ with MTG Foundations collector booster display
+thedragonloft.store|mtg|shopify|/collections/tcg and /products/; MTG sealed not seen
+thegamecellarla.com|mtg|unknown|San Gabriel store stocks MTG singles and sealed per homepage; no product pages
+thegamersedgecomics.com|mtg|unknown|Stroudsburg/Easton shop carries MTG packs; no product pages seen
+thehoneybeegames.com|mtg|wix|MTG page and events; sells packs in store, no product pages
+thekavecollectibles.com|sealed|shopify|Hobbit Play Booster Display Box $189.99 product page
+themanacore.com|mtg|unknown|Providence shop web shop for MTG singles; no sealed seen
+themanavault.com|mtg|unknown|Milwaukee MTG store; products page mentions sealed, no cart pages seen
+themysticgameshop.com|mtg|unknown|Olympia game shop; prereleases mentioned, no product pages
+theriftny.com|sealed|square|/product/ pages for OTJ play booster box and collector booster box
+therpgzone.com|mtg|unknown|Alexandria VA store stocks MTG packs and sealed per site; no product pages
+thesidequestak.com|mtg|unknown|Anchorage board game lounge sells MTG packs; no shop pages
+thesportscardshop.com|sealed|unknown|Magic The Gathering boxes-and-packs category page
+thetechexchange.net|no_mtg|unknown|video games and electronics resale
+thetradingcardemporium.com|mtg|unknown|Daily MTG events and sells MTG; no product pages seen
+thirdspacetcg.com|mtg|unknown|San Antonio shop /store/ pages; MTG sealed claimed, only MLP and Pokemon pages seen
+threeforonetrading.com|sealed|shopify|shop. subdomain /products/ Foundations play booster box
+timewarpcards.com|mtg|unknown|Cincinnati shop MTG page says boosters and boxes for sale; no cart pages
+titangamesandhobbies.com|sealed|unknown|delivery. subdomain /product/ Dominaria United Bundle
+treasurecruisecards.com|mtg|unknown|MTG play store sells boosters; category pages only for other games
+trottashobbies.com|mtg|unknown|NJ shop stocks MTG sealed per homepage; no product pages seen
+tucsongamesandgadgets.com|mtg|unknown|AZ stores carry MTG; events pages only
+tulsaarcades.com|no_mtg|unknown|custom arcade machines and parts
+twinsunscomics.com|mtg|unknown|Cape Charles VA FNM and draft events only
+uncommonsnyc.com|mtg|unknown|NYC store sells MTG boosters; Commander Anthology page and events
+undergroundgames.com|sealed|unknown|/product/ Foundations Jumpstart boosters and Final Fantasy bundle
+unisongamescafe.com|sealed|unknown|/product/ Final Fantasy play booster box and OTJ commander decks
+valhallasgate.com|mtg|unknown|MTG draft and prerelease event pages only
+vansccg.com|mtg|unknown|Homepage lists MTG boosters; no product pages seen
+victorycomics.com|mtg|unknown|Falls Church VA comics store buys and sells MTG; no product pages
+vorumgames.com|not_store|shopify|UK store (Holt Norfolk, GBP prices)
+wizardscomicsandgames.com|mtg|unknown|Tulsa store MTG booster draft events only
+wshouseofcards.com|mtg|unknown|Winston Salem store carries MTG; no product pages seen
+wyldergaming.com|sealed|shopify|/collections/magic-the-gathering and collector booster display product page
+zehttys.com|sealed|shopify|shop.zehttys.com /products/ Spider-Man bundle box and MTG boxes
+1standgoalcollectibles.com|unknown|unknown|domain not indexed; Canton GA sports card shop per directories
+1stopcardshopandgames.com|mtg|unknown|Lake Oswego shop hosts MTG tournaments; sports cards and retro games
+1stopcardshoptx.com|no_mtg|unknown|Bellaire TX sports cards and Pokemon shop
+3kingssportscards.com|no_mtg|unknown|/product/ pages for Pokemon, Yu-Gi-Oh, One Piece only
+3rd-coast-collector.com|unknown|unknown|Pasadena TX collectibles shop; MTG not seen
+3rdcoastcards.com|mtg|unknown|MTG singles retailer with set pages; no sealed pages seen
+528collectibles.com|no_mtg|wix|sports and Pokemon collectibles; no MTG seen
+5starcards.com|mtg|unknown|graded card marketplace with MTG graded cards; sealed claim unconfirmed
+5thinningcards.com|no_mtg|unknown|baseball and sports cards only
+605diecast.com|no_mtg|unknown|Sioux Falls diecast and collectibles store
+610collectibles.com|unknown|unknown|domain not indexed; Robesonia PA card shop per directories
+716cardsandcollectibles.com|no_mtg|unknown|West Seneca NY sports cards shop; no MTG seen
+720tradingcards.com|no_mtg|unknown|sports cards and Pokemon; no MTG seen
+732collectiblez.com|unknown|shopify|Shopify collectibles store; MTG not seen
