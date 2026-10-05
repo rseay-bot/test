@@ -33,3 +33,8 @@ bullpenfresno.com|pokemon_other|homepage mentions pokemon no product page
 cantongames.com|pokemon_other|only pokemon video game trade-in mention
 cardboxllc.com|pokemon_other|homepage describes pokemon booster boxes and ETBs no product page
 cavernsandforests.com|no_pokemon|homepage indexed mtg only
+checkmategames.net|pokemon_other|pokemon events and order forms no product page
+chicagolandgames.com|pokemon_other|shop page mentions pokemon preorders no product page
+cleverbaysportsandgaming.com|pokemon_other|trading card page mentions pokemon no product page
+collectomaniacs.com|no_pokemon|homepage indexed no pokemon seen
+comic4ce.com|pokemon_other|homepage mentions pokemon no product page
