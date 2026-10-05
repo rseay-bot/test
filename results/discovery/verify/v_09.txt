@@ -1,0 +1,3 @@
+floth.vercel.app|mtg|unknown|homepage lists MTG booster packs and hobby boxes categories but no product page seen
+freedomcgs.squarespace.com|not_store|squarespace|card grading service pricing and about pages only
+frissongaming.org|mtg|shopify|local game store Clearfield UT mentions MTG; only board game product pages seen
