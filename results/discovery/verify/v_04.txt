@@ -29,3 +29,32 @@ amercoins.com|no_mtg|unknown|coin dealer
 americandreams.cards|no_mtg|unknown|sports cards plus Pokemon and One Piece
 amerlegends.com|no_mtg|unknown|sports cards store
 annarborsportsshop.com|no_mtg|unknown|sports memorabilia, physical shop closed
+anothercastlegames.com|no_mtg|wordpress|video game and arcade store
+appexgames.co|not_store|unknown|game development studio
+arrowheadsportscards.com|no_mtg|unknown|sports card shop, no MTG indexed
+artofsportskc.com|no_mtg|unknown|sports cards shop
+asteriskcollectibles.com|no_mtg|unknown|Pokemon, sports and One Piece cards
+athlonauthentics.com|mtg|unknown|store has Magic category, no sealed MTG product page seen
+atjgameandhobby.com|unknown|unknown|nothing indexed
+atlantic-cards.com|no_mtg|unknown|sports card business
+atomicempire.com|sealed|unknown|Phyrexia All Will Be One set booster box product page with price
+atomicgamingga.com|mtg|unknown|Stockbridge GA game store buys and sells MTG, no sealed page seen
+attackofthebbcards.com|no_mtg|unknown|baseball and sports card products
+auburnsource.com|no_mtg|wix|Auburn sports memorabilia
+augustagolfcollectables.com|no_mtg|unknown|golf memorabilia
+autographworld.com|no_mtg|unknown|celebrity autographs
+avsportscards.com|no_mtg|unknown|sports cards and signed memorabilia
+avzensports.com|no_mtg|unknown|sports cards only
+awalkintime.com|not_store|unknown|parked GoDaddy domain
+azlinscards.com|mtg|unknown|store page says carries Magic products, no sealed page seen
+azsportscards.com|no_mtg|unknown|sports cards and Pokemon releases
+backintimecollectibles.com|no_mtg|unknown|toys, movie collectibles and video games
+backyardbreaks.com|no_mtg|shopify|sports card live breaks
+badfasthobbies.com|no_mtg|unknown|RC hobby store
+bakersfieldcardshop.com|no_mtg|unknown|sports, Pokemon and One Piece cards
+bakersfieldsportscards.com|no_mtg|unknown|sports and non-sports cards shop, no MTG indexed
+ballcardinvestments.com|no_mtg|unknown|sports card collection buyer
+bambooparkcards.com|unknown|unknown|card shop listing, nothing indexed on MTG
+banddsportscards.com|no_mtg|unknown|sports cards and memorabilia
+banditos.net|mtg|unknown|comic shop with MTG events and buys MTG, no sealed page seen
+banitaford.wixsite.com|mtg|wix|Nerd Friendly game store mentions MTG, no sealed page seen

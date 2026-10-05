@@ -27,3 +27,32 @@ cosmiccollectibles53566.com|mtg|unknown|sanctioned MTG events and prereleases, n
 counterspellgames.com|unknown|unknown|domain not indexed
 crashnbashhobbies.com|no_mtg|unknown|RC hobby shop
 crockssports.com|no_mtg|unknown|sports cards Pokemon Funko no MTG
+crownsportsauction.com|no_mtg|unknown|sports memorabilia auction only
+crtreasurechest.com|no_mtg|unknown|antique and toy resale store in Cedar Rapids
+crunchtimesportsnc.com|no_mtg|unknown|sports cards and Pokemon
+cusecollectables.com|no_mtg|unknown|Pokemon Yu-Gi-Oh sports cards shop
+dabbersgamingcafe.com|mtg|unknown|Norcross GA card store with Magic singles, no sealed page seen
+dads-dugout.com|no_mtg|unknown|sports cards and Pokemon product pages only
+dakotagamingsupply.com|mtg|unknown|Bismarck ND hobby store buys sells Magic, no product pages
+dalezkardz.com|mtg|unknown|Colorado Springs shop with Magic events page, no sealed page
+darkninjagaming.com|sealed|shopify|MTG Sealed collection and Commander Masters collector booster box page
+darkstar-hobbies.com|unknown|unknown|hobby shop, MTG not confirmed
+deanscards.com|no_mtg|unknown|vintage baseball and sports cards
+deckdropz.com|not_store|unknown|card vending machine operator, no online shop
+deervalleycollectibles.com|sealed|unknown|online shop with Shop Magic: The Gathering category page and /products/ URLs
+deltacardshop.com|mtg|unknown|local game store carries MTG, online store coming soon
+deseretcollectables.com|mtg|unknown|coin and card firm sells MTG singles, no sealed page seen
+destinationanimestore.square.site|no_mtg|square|anime figures and merchandise store
+destinationtcg.com|no_mtg|unknown|Pokemon cards shop in Baytown TX
+destinysendgamesandhobbies.com|mtg|shopify|MTG singles product pages, no sealed seen
+detroitsportscards.com|no_mtg|unknown|sports cards singles and wax
+diamondclubcards.com|no_mtg|unknown|Topps and Pokemon products
+discreplay.com|mtg|unknown|used game chain buys sells Magic at some locations, no sealed page
+diversionsgames.com|mtg|unknown|MTG draft and prerelease event pages only
+divinerealmllc.com|unknown|unknown|Elyria OH collectibles store, no site pages indexed
+dj-collectibles.com|mtg|unknown|Glendale AZ shop lists MTG, site not indexed
+dlairhouston.square.site|sealed|square|MTG Ikoria Bundle product page
+dndscollectables.com|unknown|wix|ambiguous business, nothing indexed on domain
+dogsofwargaming.square.site|unknown|square|Palm Bay FL wargaming store, MTG not confirmed
+dogtowncollectibles.com|no_mtg|unknown|St Louis sports memorabilia and framing
+doubleplaysportscards.com|unknown|unknown|Corpus Christi cards and comics shop, site not indexed
