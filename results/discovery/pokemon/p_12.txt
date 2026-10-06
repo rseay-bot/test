@@ -5,3 +5,23 @@ ccssportscards.com|pokemon_other|Pokemon graded slab listing no sealed page
 centralcardshop.com|unknown|nothing indexed
 centralsportscards.com|no_pokemon|only homepage indexed sports cards
 centre-city-sports-collectibles.ueniweb.com|no_pokemon|only homepage indexed no Pokemon seen
+champscards.com|pokemon_other|homepage says they deal in Pokemon boxes and sealed but no product page
+clarksvillesportscards.com|pokemon_other|homepage mentions Pokemon boxes and singles no product page
+classic-collectables.edan.io|pokemon_other|only homepage and reviews mention Pokemon packs
+clesportscollectiblesoh.com|no_pokemon|only sell-us page indexed sports memorabilia
+coins-n-cards.hub.biz|unknown|nothing indexed
+collect702.com|unknown|nothing indexed
+collectorsattic.com|unknown|nothing indexed
+coopersportscollectibles.com|unknown|nothing indexed
+crashnbashhobbies.com|unknown|nothing indexed
+crownsportsauction.com|no_pokemon|auction lots indexed sports memorabilia only
+crtreasurechest.com|pokemon_other|homepage says carries Pokemon CCG no product page
+deanscards.com|unknown|nothing indexed
+destinationanimestore.square.site|unknown|nothing indexed
+detroitsportscards.com|unknown|nothing indexed
+dogtowncollectibles.com|unknown|nothing indexed
+drum-pepper-m3jp.squarespace.com|unknown|nothing indexed
+elite-memorabilia.com|unknown|nothing indexed
+elite-sportscards.edan.io|no_pokemon|only homepage indexed sports cards
+empirememorabilia.com|unknown|nothing indexed
+endzonecollectibles.com|pokemon_other|article mentions Pokemon cards; shop pages are accessories only

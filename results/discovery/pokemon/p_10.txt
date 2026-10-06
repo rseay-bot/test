@@ -8,3 +8,25 @@ hometeamcollectibles.com|unknown|nothing indexed
 hotcorner315sportscard.com|pokemon_other|homepage mentions Pokemon memorabilia only
 hyped.cards|pokemon_sealed|Paldean Fates elite trainer box listed $49.99
 davesportscards.com|pokemon_other|Pokemon page says stocks booster boxes and ETBs no product page
+gamesforfun.com|no_pokemon|billiards and game room products only
+gamesroomhq.com|unknown|nothing indexed
+houseofcardsnola.com|unknown|nothing indexed
+pcgoldinc.com|unknown|nothing indexed
+philshobbyshop.com|unknown|nothing indexed
+thetechexchange.net|no_pokemon|only how it works page indexed no Pokemon
+tulsaarcades.com|no_pokemon|arcade machines store no Pokemon
+5thinningcards.com|unknown|nothing indexed
+605diecast.com|unknown|nothing indexed
+716cardsandcollectibles.com|unknown|nothing indexed
+a-cardstore.edan.io|unknown|nothing indexed
+aaacollectibles.com|no_pokemon|homepage sports cards only no Pokemon seen
+absolutesportscardsmn.com|no_pokemon|only supplies pages indexed no Pokemon
+absolutesportsplus.com|unknown|nothing indexed
+acwcards.com|no_pokemon|only sports group breaks indexed
+alabama.express|unknown|nothing indexed
+aliveagaingr.com|unknown|nothing indexed
+allprosportscards.com|unknown|nothing indexed
+allstarcardsinc.com|no_pokemon|only graded sports card product indexed
+amercoins.com|unknown|nothing indexed
+amerlegends.com|pokemon_other|text says stocks Pokemon packs and tins no product page
+annarborsportsshop.com|unknown|nothing indexed
