@@ -25,3 +25,9 @@ elite-memorabilia.com|unknown|nothing indexed
 elite-sportscards.edan.io|no_pokemon|only homepage indexed sports cards
 empirememorabilia.com|unknown|nothing indexed
 endzonecollectibles.com|pokemon_other|article mentions Pokemon cards; shop pages are accessories only
+enterprisegames.com|no_pokemon|only condition guide and product list pages indexed no Pokemon seen
+esco753sports.com|unknown|nothing indexed
+estatesportscollectibles.com|unknown|nothing indexed
+excaliburalaska.com|unknown|nothing indexed
+famousfacesandfunnies.com|unknown|nothing indexed
+fansonlysportscards.com|pokemon_other|homepage features Pokemon release no product page
