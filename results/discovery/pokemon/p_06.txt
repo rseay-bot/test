@@ -32,3 +32,9 @@ cloudcollectibles.my.canva.site|pokemon_other|Canva homepage mentions Pokemon ca
 cmcardhaven.com|pokemon_other|homepage mentions Pokemon sealed products no product page
 coastalcardsdtsp.com|pokemon_other|homepage mentions Pokemon events and vendors no product page
 coastalrcspeedway.com|no_pokemon|RC hobby shop with generic TCG pages no Pokemon seen
+coliseumcardco.tcgplayerpro.com|unknown|nothing indexed
+collectiblebuyers.com|pokemon_other|buys Pokemon cards no sealed product page
+collectivelnk.tcgplayerpro.com|unknown|nothing indexed
+collectormaniaparker.com|unknown|nothing indexed
+collectors-hangout.com|pokemon_other|Pokemon page mentions elite trainer boxes but no product page
+collectorsboxde.com|pokemon_other|homepage mentions Pokemon ETBs no product page

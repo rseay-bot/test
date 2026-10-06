@@ -32,3 +32,9 @@ cosmiccardshop.net|unknown|nothing indexed
 kaleidotcg.com|pokemon_other|Pokemon TCG store homepage and events no product page
 pokenola.com|pokemon_sealed|booster boxes collection and product pages with prices
 shopnocturnaltcg.com|unknown|nothing indexed
+1stopcardshoptx.com|unknown|nothing indexed
+3kingssportscards.com|pokemon_sealed|Destined Rivals Japanese packs product page
+528collectibles.com|pokemon_other|mentions Pokemon but no sealed product page
+720tradingcards.com|pokemon_other|homepage mentions Pokemon no product page
+7thinningsportscards.com|no_pokemon|products page lists only sports cards and supplies
+allsportscollectiblesmia.wordpress.com|pokemon_other|homepage mentions Pokemon no product page
