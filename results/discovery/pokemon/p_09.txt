@@ -30,3 +30,11 @@ dads-dugout.com|pokemon_sealed|booster bundle and tin product pages
 destinationtcg.com|pokemon_other|homepage mentions sealed no product page
 diamondclubcards.com|pokemon_sealed|Pokemon collectors bundle product page
 effortlex.com|pokemon_other|graded Pokemon singles only
+elite3tcg.com|pokemon_sealed|booster boxes and packs pages with prices
+endlesstcg.com|pokemon_sealed|many /products/ booster box pages with prices
+epiccardquest.com|pokemon_other|singles and pull box only
+evolutionempiretcg.com|pokemon_other|homepage mentions sealed but no product page seen
+firstroundpicksohio.com|pokemon_sealed|collection box product-page and booster box prices
+gamershq.com|pokemon_other|pokemon section mentions booster boxes but no sealed product page
+gemmintcardhouse.com|pokemon_sealed|pokemon-booster-boxes collection and /products/ pack page
+gemminttwinssportscards.com|pokemon_other|homepage mentions Pokemon only
