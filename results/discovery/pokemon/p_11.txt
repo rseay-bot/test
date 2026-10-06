@@ -31,3 +31,10 @@ buyandsellchampionshiprings.com|no_pokemon|championship rings only
 bwabreaks.com|unknown|no results indexed
 candcsportcards.com|unknown|no results indexed
 candjcards.com|no_pokemon|homepage and category pages only mentions trading card games
+canoncollectibles.com|unknown|no results indexed
+capeandcowlcollectibles.com|unknown|no results indexed
+capesportscards.com|no_pokemon|sports collection pages only no pokemon
+cardfatherlive.com|no_pokemon|toploader supplies page only
+cardkast.shop|unknown|no results indexed
+cardsandcoffee.com|pokemon_other|homepage mentions The Poke Breakers Pokemon brand no product page
+cardtablerepublic.com|unknown|no results indexed
