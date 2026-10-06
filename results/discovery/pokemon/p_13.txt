@@ -1,0 +1,8 @@
+game-chest.shoplightspeed.com|no_pokemon|indexed shop shows CookieRun TCG only
+gamechangercards.com|unknown|nothing indexed
+gamedaysportsmemorabilia.com|no_pokemon|autographed sports memorabilia only
+gamerworld.us|unknown|nothing indexed
+games4lessfl.com|unknown|nothing indexed
+gemmint.com|unknown|nothing indexed
+generationotaku.wixsite.com|unknown|nothing indexed
+generationsportscards.com|pokemon_other|homepage mentions Pokemon sealed but no product page
