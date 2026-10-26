@@ -1,2 +1,8 @@
 puzzledgamer.com|shopify|product page: Brothers War draft booster box
 collectorsavenue.com|shopify|collection page: Phyrexia All Will Be One
+cmogames.com|unknown|product page: March of the Machine draft booster box
+magicjank.com|woocommerce|product page: March of the Machine Aftermath collector booster box
+k-mtg.com|unknown|product page: LOTR Tales of Middle-earth draft booster box
+gatheringi.com|woocommerce|product page: LOTR Tales of Middle-earth draft booster box
+boardenzo.com|woocommerce|product page: Commander Masters draft booster box
+scaletrainworld.com|woocommerce|product page: Commander Masters draft booster box (odd pricing)
