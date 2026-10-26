@@ -20,3 +20,4 @@ Smith's Food and Drug|unknown|yes|yes|https://www.smithsfoodanddrug.com/p/pokemo
 Ralphs|unknown|yes|yes|https://www.ralphs.com/p/pokemon-trading-card-game-sv3-5-scarlet-violet-151-elite-trainer/0082065085315|Pokemon ETB and bundles on product pages; ralphs.com
 Dollar General|unknown|yes|yes|https://www.dollargeneral.com/p/pokemon-trading-card-game-30th-celebration-elite-trainer-box/196214158801|Pokemon ETB tins packs on product pages; booster boxes unlikely; dollargeneral.com
 Dollar Tree|unknown|yes|store_only|https://topbusinessfeed.com/does-dollar-tree-sell-pokemon-cards/|Pokemon packs kept behind counter or by checkout; dollartree.com
+Family Dollar|unknown|yes|yes|https://sameday.familydollar.com/store/family-dollar/products/90941780-pokemon-10-count-trading-cards-assorted-limit-24-packs|Pokemon packs on same-day delivery listings; familydollar.com
