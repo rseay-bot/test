@@ -8,3 +8,7 @@ Amazon|yes|unknown|yes|https://www.amazon.com/Magic-Gathering-Foundations-Play-B
 Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=magic+gathering+cards+booster+box|bestbuy.com; MTG booster box search results
 Toys R Us|yes|unknown|yes|https://www.toysrus.com/collections/magic-the-gathering|toysrus.com; MTG collection page; Canada clearance in-store reports
 Toynk|unknown|unknown|unknown|https://www.toynk.com/blogs/news/magic-the-gathering-booster-box|toynk.com; MTG booster box buyer guide blog only
+Toy Temple|yes|unknown|yes|https://www.thetoytemple.com/collections/magic-the-gathering|thetoytemple.com; toy store MTG play/collector/jumpstart boxes
+Galactic Toys & Collectibles|yes|unknown|yes|https://galactictoys.com/collections/magic-the-gathering|galactictoys.com; toy store sealed MTG boxes
+Kmart Australia|yes|unknown|yes|https://www.kmart.com.au/product/magic-the-gathering:-marvel's-spider-man-play-booster-pack-110021068/|kmart.com.au; Australian Kmart, MTG play booster pack online; not US Kmart
+7-Eleven (Japan)|unknown|unknown|unknown|https://tcgrepublic.com/product/tag_page.html?tags=15083|7-Eleven collab card category lists MTG; Japan only, unclear

@@ -5,3 +5,19 @@ Barnes & Noble|yes|yes|yes|https://www.barnesandnoble.com/w/magic-aetherdrift-co
 Barnes & Noble College|unknown|unknown|unknown|https://www.barnesandnoble.com/b/strategy-games/magic-the-gathering/_/N-1z141wbZ2sgc|no campus-store evidence; consumer B&N only
 Walmart|yes|unknown|yes|https://www.walmart.com/browse/collectibles/magic-the-gathering-trading-cards/5967908_9807313_1433259|MTG trading cards browse page; walmart.com
 GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|MTG cards category page; gamestop.com
+Ace Hardware|unknown|yes|yes|https://www.acehardware.com/brands/Pokemon|Pokemon booster/collection product pages with store pickup; acehardware.com; has TCG category
+True Value|unknown|unknown|unknown|https://www.dickssportinggoods.com/f/pokemon-trading-cards|no True Value evidence found; truevalue.com
+Dick's Sporting Goods|unknown|yes|yes|https://www.dickssportinggoods.com/f/pokemon-trading-cards|Pokemon category page with boosters and ETBs; dickssportinggoods.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-booster-boxes/20021569.html|Pokemon booster boxes product page; gamestop.com
+BoxLunch|unknown|yes|yes|https://www.boxlunch.com/product/pokemon-trading-card-game-booster-pack/37041416.html|Pokemon booster pack product page; boxlunch.com
+Do it Best|unknown|unknown|unknown|https://thecardshopfinder.com/guides/pokemon-tcg/where-to-buy-pokemon-booster-boxes/|no Do it Best evidence found
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=pokemon+booster+box|Pokemon booster box search and in-store Q&A; bestbuy.com
+Home Depot|unknown|unknown|unknown|https://www.walmart.com/browse/collectibles/pokemon-booster-box/5967908_9807313_4252400_7038039|no Home Depot evidence found
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/collectibles/pokemon-booster-box/5967908_9807313_4252400_7038039|Pokemon booster box category; walmart.com
+Office Depot|unknown|yes|yes|https://www.officedepot.com/a/products/6380998/Pokmon-Trading-Card-Game-Scarlet-andamp/|Pokemon Temporal Forces sleeved booster product page; officedepot.com
+Lowe's|unknown|yes|yes|https://www.lowes.com/pd/Pokemon-Pokmon-TCG-Scarlet-Violet-Prismatic-Evolutions-Elite-Trainer-Box/5016978801|Pokemon ETB product page; began stocking Dec 2025 per PokeBeach; lowes.com
+Menards|unknown|yes|yes|https://www.menards.com/main/c-6506.htm|Trading Cards category with Pokemon product pages, pickup at store; menards.com
+Tractor Supply|unknown|unknown|unknown|https://www.tractorsupply.com/tsc/product/ultra-pro-9-pocket-pokemon-full-view-pro-binder:-silhouettes-e-84373|only Pokemon binder accessory seen; cards not seen; tractorsupply.com
+Fleet Farm|unknown|yes|yes|https://www.fleetfarm.com/brand/pokemon/_/N-1418666303|Pokemon sleeved boosters and ETBs on brand page; fleetfarm.com
+Rural King|unknown|yes|yes|https://www.ruralking.com/pokemon-stellar-crown-sleeved-booster-card-pack-820650859007|Pokemon sleeved booster product page; ruralking.com
+Orscheln Farm and Home|unknown|unknown|unknown|https://www.billboard.com/culture/product-recommendations/pokemon-tcg-30th-celebration-trainer-box-booster-buy-online-1236353092/|no Orscheln evidence found
