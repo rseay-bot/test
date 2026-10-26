@@ -3,3 +3,4 @@ GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/produ
 Best Buy|unknown|yes|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=pokemon+booster+box|Pokemon booster box search results; bestbuy.com
 EB Games (GameStop Canada)|unknown|yes|yes|https://www.gamestop.ca/SearchResult/QuickSearch?q=pokemon+cards|Pokemon booster boxes and bundles with prices; gamestop.ca
 Toys R Us|unknown|yes|yes|https://www.toysrus.com/collections/pokemon|Pokemon collection page; toysrus.com (also toysrus.com.au, toysrus.co.za)
+Learning Express Toys|unknown|yes|yes|https://learningexpressgifts.com/collections/pokemon-booster-packs|Pokemon booster packs online; franchise stores vary; learningexpress.com
