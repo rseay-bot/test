@@ -1,0 +1,201 @@
+
+<title>mtgsweep CLI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#f5f6f4; --surface:#ffffff; --ink:#1d2320; --muted:#5d6862; --line:#d9ded9;
+  --accent:#1f6b4f; --accent-soft:#e3efe8; --code:#eef1ee; --warn:#8a5a00; --warn-soft:#fbf0d9;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#131715; --surface:#1a1f1c; --ink:#e3e8e4; --muted:#9aa59f; --line:#2c3430;
+    --accent:#6cc39c; --accent-soft:#1e3129; --code:#202623; --warn:#e2b454; --warn-soft:#2e2717;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#131715; --surface:#1a1f1c; --ink:#e3e8e4; --muted:#9aa59f; --line:#2c3430;
+  --accent:#6cc39c; --accent-soft:#1e3129; --code:#202623; --warn:#e2b454; --warn-soft:#2e2717;
+}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding-inline:20px;padding-block:32px 64px;display:flex;flex-direction:column;gap:36px}
+h1{font-size:30px;line-height:1.2;margin:0;font-weight:600;text-wrap:balance}
+h2{font-size:19px;margin:0 0 10px;font-weight:600;text-wrap:balance}
+p{margin:0;max-width:68ch}
+.lede{color:var(--muted);font-size:16px}
+.eyebrow{font:500 12px/1 "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+header{display:flex;flex-direction:column;gap:12px}
+section{display:flex;flex-direction:column;gap:12px}
+code,pre{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-size:13px}
+code{background:var(--code);padding:1px 5px;border-radius:4px}
+pre{background:var(--code);border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin:0;overflow-x:auto;line-height:1.55}
+pre code{background:none;padding:0}
+.scroll{overflow-x:auto;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:500 12px/1.3 "IBM Plex Mono",monospace;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:none}
+td.num{text-align:right;white-space:nowrap}
+.pill{display:inline-block;font:500 11px/1 "IBM Plex Mono",monospace;padding:4px 7px;border-radius:999px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.pill.warn{background:var(--warn-soft);color:var(--warn)}
+ol,ul{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:6px;max-width:70ch}
+.note{border-left:3px solid var(--warn);background:var(--warn-soft);padding:10px 14px;border-radius:0 6px 6px 0;max-width:70ch}
+.copyrow{display:flex;justify-content:flex-end}
+button{font:500 12px "IBM Plex Mono",monospace;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:5px 10px;border-radius:5px;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+footer{color:var(--muted);font-size:13px}
+</style>
+
+<div class="wrap">
+<header>
+  <span class="eyebrow">Sell MTG Crads · sealed sourcing</span>
+  <h1>mtgsweep CLI</h1>
+  <p class="lede">One command sweeps about 6,200 independent US game-store sites in the cloud (R52 census, R53 GoDaddy, headless Shopify and 3 big online retailers, R55 +793 from Overture Maps), plus about 490 CrystalCommerce stores fetched from Roland's own computer, for an MTG sealed product, then merges, verifies and reports. It replaces the per-round r42, r43 and r44 scripts. The code and host lists are published with this page, so a new Cowork session pulls them to disk in one step.</p>
+</header>
+
+<section>
+  <h2>Start a session</h2>
+  <p>Ask Claude to load the toolkit. Claude reads this artifact's files to its workspace, no retyping:</p>
+  <pre><code>Artifact read, this page's URL, paths = every file in the manifest below
+cp -r &lt;saved folder&gt; /home/claude/mtgsweep
+cd /home/claude/mtgsweep &amp;&amp; python3 -m mtgsweep preflight &amp;&amp; python3 tests/test_matchers.py</code></pre>
+  <p>Preflight checks master counts, blocklist overlap and duplicates. Tests cover the Round 42-44 fixtures, bugs #41-#45, and the R49 deck fixtures (Savage Hunger, Commander Kits, Anthology reprints), and the R53 all-sealed fixtures (Secret Lair and Commander names, magic-trick shops, bug #53).</p>
+</section>
+
+<section>
+  <h2>Run a sweep</h2>
+  <div class="copyrow"><button type="button" id="copy-run">Copy commands</button></div>
+  <pre id="run-cmds"><code># one named SKU from a JSON spec (Round 44 method)
+nohup python3 -m mtgsweep run --profile single --spec specs/ltr-set-box.json --out runs/r46-ltr &gt; runs/r46.log 2&gt;&amp;1 &amp;
+
+# every set/draft/play/beyond booster box 2020+ (Round 43 method)
+nohup python3 -m mtgsweep run --profile boxes --out runs/r46-boxes &gt; runs/r46b.log 2&gt;&amp;1 &amp;
+
+# named Commander and Brawl precons (Round 42 method; TCGCSV Market per deck from R49)
+nohup python3 -m mtgsweep run --profile decks --out runs/r46-decks &gt; runs/r46d.log 2&gt;&amp;1 &amp;
+
+# any MTG sealed product: boxes, packs, bundles, Commander decks, Secret Lair (R53)
+nohup python3 -m mtgsweep run --profile sealed --out runs/r53-sealed &gt; runs/r53s.log 2&gt;&amp;1 &amp;
+
+# matcher changed? re-classify without re-sweeping
+python3 -m mtgsweep run --profile single --spec specs/ltr-set-box.json --out runs/r46-ltr --stages merge,verify,report
+
+# new SKU: print a spec skeleton plus every sibling product to reject
+python3 -m mtgsweep spec --group 23019 --product 484909
+
+# test one title against a profile
+python3 -m mtgsweep classify --profile boxes "Bloomburrow Play Booster" --variant "Box (36 Packs)" --price 130</code></pre>
+  <p>Always run sweeps under <code>nohup</code>. A foreground shell call dies at 10 minutes. The log prints progress per route every 100 hosts.</p>
+</section>
+
+<section>
+  <h2>CrystalCommerce leg (Roland's computer)</h2>
+  <p>CC storefronts answer 410 to the cloud and drop plain OpenSSL handshakes even from a home IP. A Chrome TLS fingerprint works. Connect a folder, then in the local shell:</p>
+  <pre><code>pip install --user curl_cffi
+python3 cc_fetch.py cc_jobs.txt out 4 125      # one call = one 125 s chunk; rerun until remaining=0 (background jobs die between calls)
+python3 cc_verify.py cc_verify.json ccv_out.jsonl 5 118   # pickup-only check on the rows verify picks</code></pre>
+  <p>Stage the gzipped outputs, then in the cloud: <code>tools/cc_import.py</code> writes <code>raw/crystalcommerce.jsonl</code>, and <code>tools/r51_finish.py</code> applies pickup results, the abandoned-store filter and the report. Keep 4 to 5 workers; the script aborts after 25 hosts in a row on 410/403/5xx.</p>
+</section>
+
+<section>
+  <h2>What one run produces</h2>
+  <div class="scroll"><table>
+    <thead><tr><th>File</th><th>Contents</th></tr></thead>
+    <tbody>
+      <tr><td><code>raw/&lt;route&gt;.jsonl</code></td><td>One line per host, written as it finishes. A rerun skips hosts already there.</td></tr>
+      <tr><td><code>merged.json</code></td><td>Rows plus audited rejects, re-classified, then filtered: blocklist on master, served and URL host; US-only; USD; twin storefronts collapsed with <code>alt_hosts</code>.</td></tr>
+      <tr><td><code>verified.json</code></td><td>Live re-read of every in-stock target row, every row under 50% of Market, and the three cheapest per group.</td></tr>
+      <tr><td><code>in_stock.csv</code></td><td>Target rows live in stock, ranked per group, each with a status label.</td></tr>
+      <tr><td><code>rollup.csv</code></td><td>Cheapest clean in-stock listing per SKU or deck, with stock depth and Market.</td></tr>
+      <tr><td><code>listings.csv</code></td><td>Everything, all stock states.</td></tr>
+      <tr><td><code>coverage.md</code></td><td>Per-route status counts, drops, verification summary, and the headline table.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section>
+  <h2>Routes</h2>
+  <div class="scroll"><table>
+    <thead><tr><th>Route</th><th class="num">Hosts</th><th>Method</th><th>US screen</th></tr></thead>
+    <tbody>
+      <tr><td>Shopify</td><td class="num">2,540</td><td>Tokenless Storefront GraphQL GET; retries on final host, then every <code>myshopify.com</code> handle on the homepage (HTTP 400 retries too since R52)</td><td><code>countryCode</code></td></tr>
+      <tr><td>WooCommerce</td><td class="num">875</td><td>Store API with per-variation price; HTML search fallback on API-dead hosts</td><td>currency only</td></tr>
+      <tr><td>ShadowPOS</td><td class="num">57</td><td>Collection walk, <code>HX-Request</code>, <code>data-variants</code></td><td>currency</td></tr>
+      <tr><td>Wix</td><td class="num">362</td><td>Store sitemap, slug filter (plus opt-in slug shape, decks profile), JSON-LD</td><td>currency</td></tr>
+      <tr><td>BigCommerce</td><td class="num">104</td><td><code>search.php</code> plus <code>xmlsitemap.php</code>; JSON-LD, itemprop, Open Graph price</td><td>currency</td></tr>
+      <tr><td>Squarespace</td><td class="num">527</td><td>GeneralSearch API, <code>?format=json</code> variants</td><td><code>addressCountry</code> (country names mapped to codes, bug #45)</td></tr>
+      <tr><td>Square Online</td><td class="num">748</td><td><code>adapters/presence.py</code>: editmysite products API (<code>q=</code>, 200/page), SKU endpoint for multi-price items and for shipping vs pickup; paused stores (<code>"accepting_orders":false</code>, 96 in R51) report no stock</td><td>homepage <code>currency</code>, <code>country</code></td></tr>
+      <tr><td>Lightspeed / Ecwid</td><td class="num">196</td><td><code>adapters/presence.py</code>: Ecwid storefront API POST (<code>catalog/search</code>, option prices via <code>catalog/product/overrides</code>); Lightspeed C-Series <code>/search/term/?format=json</code>; Ecwid stores with <code>hasOnlyPickupLocations</code> report no stock</td><td>Ecwid <code>initial-data</code>; C-Series shop currency</td></tr>
+      <tr><td>JSON-LD (generic)</td><td class="num">50</td><td><code>adapters/jsonld.py</code> (R52): robots.txt and <code>/sitemap*.xml</code> product URLs filtered by the profile slug regex (150 max), schema.org Product/Offer per page, microdata fallback; 240 s and 8-failure cutoff per host. For Duda, GoDaddy, Weebly, Big Cartel, Woo without Store API, custom sites</td><td>Offer <code>priceCurrency</code> (source address at intake)</td></tr>
+      <tr><td>GoDaddy Online Store</td><td class="num">84</td><td><code>adapters/godaddy.py</code> (R53): account UUID from <code>img1.wsimg.com</code> asset paths (fallback <code>data/godaddy_ids.json</code>), then <code>&lt;uuid&gt;.mysimplestore.com/api/v3/config</code> and <code>/api/v2/products</code>, 100 per page; stores not LIVE report no stock. Verify: <code>/api/v2/products/&lt;slug&gt;</code></td><td>config <code>country_iso</code>, <code>currency.code</code></td></tr>
+      <tr><td>Big online retailers</td><td class="num">3</td><td><code>adapters/retailer.py</code> (R53): Card Kingdom sealed pricelist JSON (one request); CoolStuffInc set pages with sealed filter, in stock first, microdata (product page decides stock at verify); Miniature Market Shopware listing widget. Priced near Market: coverage, not deals</td><td>US by definition</td></tr>
+      <tr><td>CrystalCommerce</td><td class="num">698</td><td>Local only: <code>tools/cc_fetch.py</code> on Roland's computer (Chrome TLS via curl_cffi, advanced_search category 12, in stock, 100 per page), then <code>tools/cc_import.py</code>; pickup check <code>tools/cc_verify.py</code></td><td><span class="pill warn">cloud egress blocked (410)</span> page text</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section>
+  <h2>Where to change things</h2>
+  <ul>
+    <li><code>data/blocklist.txt</code> for Roland's blocks. Remove the store from every master too. Preflight fails if a blocked host is still in a master.</li>
+    <li><code>data/pending_non_us.txt</code> for the 9 USD-priced non-US stores awaiting a decision.</li>
+    <li><code>data/godaddy_ids.json</code> for a GoDaddy store's account UUID when you add it to <code>data/hosts/godaddy.txt</code> (read it off any <code>img1.wsimg.com/isteam/ip/&lt;uuid&gt;/</code> image path).</li>
+    <li><code>data/decks.json</code> for the precon list. <code>specs/*.json</code> for single-SKU targets.</li>
+    <li><code>mtgsweep/profiles/boxes.py</code>, <code>SETS</code>, for a new set. <code>python3 -m mtgsweep sets-check</code> lists TCGCSV sets with boxes that are missing.</li>
+  </ul>
+  <p class="note">After any change to code or data, republish this page with the changed files and save the same files to the project. Then the next session starts from the current version.</p>
+</section>
+
+<section>
+  <h2>Manifest</h2>
+  <div class="scroll"><table>
+    <thead><tr><th>Path</th><th>Role</th></tr></thead>
+    <tbody id="manifest"></tbody>
+  </table></div>
+</section>
+
+<footer>v1.6.6 · R59 2026-10-26: product-title web search intake (+67 hosts: 43 Shopify, 15 WooCommerce, 8 Wix, 1 BigCommerce; routes untested) · v1.6.5 · R58c 2026-10-12: Foursquare OS Places pull (+50 stores, 3 with MTG sealed), fsq_pull tool · v1.6.4 · R58b 2026-10-12: Shop app search (+72 Shopify stores, 70 with MTG sealed; 4 route swaps), fp2 home pass on 116 leftovers (+2), 13 dropship/scam stores blocklisted, shopapp_pull and tc_cffi tools · v1.6.3 · R58 2026-10-12: lead review (CaveGamers +1 real MTG sealed, Games Mothership +1), Talaria and TCGSync platform checks, no new tools · v1.6.2 · R57 2026-10-10: Google Places pull, 100k+ cities (+290 stores, 64 with real MTG sealed, about $46) · v1.6.1 · R57: multi-adapter retest (dead end, +3), Foursquare gated · v1.6.0 · R56 2026-10-10: Pro-widget fingerprint fix (+53 stores), Riftbound/Lorcana store API, cardshopdir, OpenStreetMap intake (+146 hosts, 47 with real MTG sealed), 8 new discovery/post-test tools · v1.5.1 · R55b 2026-10-07: tcgshopfinder.com (+194) and CGC dealer locator (+37) intake, dir_intake/tcgshopfinder_pull/cgc_pull tools · v1.5.0 · R55 2026-10-07: Overture Maps intake (+793 hosts, 84 with real MTG sealed), overture_pull/overture_intake/test_candidates2 tools · v1.4.1 · R54 2026-09-28: Comic Shop Locator and Konami OTS intake (+20), phone-match resolver, home recheck tool, merch/accessory-brand rejects · v1.4.0 · R53 2026-09-28: all-sealed profile, GoDaddy store route (+22), headless Shopify (+3), big-retailer route (Card Kingdom, CoolStuffInc, Miniature Market), bug #53, browser sampler · v1.3.0 · R52 2026-09-28: store discovery only, +372 US hosts (WPN locator, Ravensburger Play API, locator CSV re-probe), JSON-LD route (+31 incl. 23 moved), 20 non-US blocklisted, Shopify HTTP 400 retry · v1.2.0 · R51 2026-09-28: CrystalCommerce via Roland's computer, Square Online and Lightspeed/Ecwid price routes, scene-box fix, +64 discovered hosts · v1.1.0 built 2026-09-26 · parity-tested against Round 44 · R46/R47 host intakes (+74, +258), R48 blocks (5 stores) · R49 decks Market, Savage Hunger fix, bug #45 2026-09-27</footer>
+</div>
+
+<script>
+const FILES = [
+ ["mtgsweep/__init__.py","package notes, standing rules"],["mtgsweep/__main__.py","CLI entry"],
+ ["mtgsweep/net.py","sessions, CA bundle, retry"],["mtgsweep/hosts.py","masters, blocklist, preflight"],
+ ["mtgsweep/tcgcsv.py","TCGplayer Market via TCGCSV"],["mtgsweep/runner.py","sweep stage"],
+ ["mtgsweep/merge.py","merge stage"],["mtgsweep/verify.py","verify stage"],["mtgsweep/report.py","report stage"],
+ ["mtgsweep/cc_harness.sh","CrystalCommerce fetcher"],
+ ["mtgsweep/profiles/__init__.py","profile contract"],["mtgsweep/profiles/single.py","single-SKU matcher"],
+ ["mtgsweep/profiles/boxes.py","all-set box matcher"],["mtgsweep/profiles/decks.py","precon deck matcher"],["mtgsweep/profiles/sealed.py","any MTG sealed matcher (R53)"],
+ ["mtgsweep/adapters/__init__.py","adapter contract"],["mtgsweep/adapters/shopify.py","Shopify"],
+ ["mtgsweep/adapters/woocommerce.py","WooCommerce"],["mtgsweep/adapters/shadowpos.py","ShadowPOS"],
+ ["mtgsweep/adapters/wix.py","Wix"],["mtgsweep/adapters/bigcommerce.py","BigCommerce"],
+ ["mtgsweep/adapters/squarespace.py","Squarespace"],["mtgsweep/adapters/crystalcommerce.py","CrystalCommerce (legacy harness parser)"],
+ ["mtgsweep/adapters/presence.py","Square Online, Ecwid, Lightspeed C-Series"],["mtgsweep/adapters/jsonld.py","generic sitemap + JSON-LD"],["mtgsweep/adapters/godaddy.py","GoDaddy Online Store (R53)"],["mtgsweep/adapters/retailer.py","Card Kingdom, CoolStuffInc, Miniature Market (R53)"],["tools/cc_fetch.py","CC fetch, run on Roland's computer"],
+ ["tools/cc_verify.py","CC pickup-only check, run on Roland's computer"],["tools/cc_import.py","CC fetch output to raw rows"],
+ ["tools/r51_finish.py","CC pickup apply, abandoned filter, report"],["tools/classify_hosts.py","platform fingerprint"],
+ ["tools/test_candidates.py","discovery candidates through real adapters"],["tools/discovery/README.md","R52 discovery pipeline"],["tools/discovery/wpn_harvest.py","WPN locator harvest"],["tools/discovery/wpn_decode.py","WPN response decoder"],["tools/discovery/rb_harvest.py","Ravensburger Play harvest"],["tools/discovery/fp2.py","fingerprint, run on Roland's computer"],["tools/discovery/srcmap.py","directory source and country map"],["tools/discovery/browse_sample.py","headless browser sampler (R53)"],["tools/discovery/konami_harvest.py","Konami OTS harvest (R54)"],["tools/discovery/resolve_by_phone.py","name to website, phone-verified (R54)"],["tools/discovery/home_recheck.py","recheck from Roland's computer (R54)"],["tools/discovery/overture_pull.py","Overture Maps US places pull (R55)"],["tools/discovery/overture_intake.py","Overture candidates minus census (R55)"],["tools/test_candidates2.py","candidate adapter test, resumable, per-host budget (R55)"],["tools/tc_cffi.py","test_candidates2 through Chrome TLS, run on Roland's computer (R58b)"],["tools/discovery/fsq_pull.py","Foursquare OS Places pull, needs HF_TOKEN (R58c)"],["tools/discovery/shopapp_pull.py","Shop app (shop.com) merchant harvest, run on Roland's computer (R58b)"],
+ ["tests/test_matchers.py","matcher regression tests"],["specs/ltr-set-box.json","example spec"],
+ ["data/blocklist.txt","permanent blocklist"],["data/pending_non_us.txt","awaiting Roland"],["data/decks.json","precon targets"],
+ ["data/hosts/shopify.txt","host master"],["data/hosts/woocommerce.txt","host master"],["data/hosts/shadowpos.txt","host master"],
+ ["data/hosts/wix.txt","host master"],["data/hosts/bigcommerce.txt","host master"],["data/hosts/squarespace.txt","host master"],
+ ["data/hosts/crystalcommerce.txt","host master"],["data/hosts/squareonline.txt","host master"],["data/hosts/lightspeed.txt","host master (Lightspeed C + Ecwid)"],["data/hosts/jsonld.txt","host master (JSON-LD route)"],["data/hosts/godaddy.txt","host master (GoDaddy route)"],["data/godaddy_ids.json","GoDaddy account UUIDs"],["data/hosts/retailer.txt","host master (big retailers)"],["README.md","quick reference"]
+];
+const tb = document.getElementById("manifest");
+for (const [p, r] of FILES) {
+  const tr = document.createElement("tr");
+  tr.innerHTML = `<td><code>${p}</code></td><td>${r}</td>`;
+  tb.appendChild(tr);
+}
+document.getElementById("copy-run").addEventListener("click", async (e) => {
+  const txt = document.getElementById("run-cmds").innerText;
+  try { await navigator.clipboard.writeText(txt); e.target.textContent = "Copied"; }
+  catch { const r = document.createRange(); r.selectNodeContents(document.getElementById("run-cmds"));
+          const s = getSelection(); s.removeAllRanges(); s.addRange(r); e.target.textContent = "Selected, press Ctrl+C"; }
+  setTimeout(() => e.target.textContent = "Copy commands", 2000);
+});
+</script>
+
+
+
