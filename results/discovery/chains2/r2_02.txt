@@ -7,3 +7,4 @@ Hobby Lobby|no|yes|both|https://www.hobbylobby.com/crafts-hobbies/hobbies-collec
 Michaels|no|no|ship||michaels.com sells other sealed cards (Disney box) but no MTG or Pokemon seen
 Wegmans|unknown|unknown|unknown||only Instacart pages hint at Pokemon cards; no wegmans.com product page
 Orscheln Farm and Home|no|no|unknown||only gift card pages from retailer site; no cards seen
+True Value|no|no|pickup_only||trading cards category page offers store pickup; no MTG or Pokemon seen

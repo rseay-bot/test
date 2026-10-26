@@ -7,3 +7,4 @@ Academy Sports + Outdoors|no|yes|unknown|https://www.academy.com/p/pok-mon-tradi
 Dick's Sporting Goods|no|yes|unknown|https://www.dickssportinggoods.com/p/pokmon-tcg-mega-pitch-black-evolution-elite-trainer-box-26pokucasukh5oiwgiw1g/26pokucasukh5oiwgiw1g|Pokemon ETBs with prices ($80); app raffles; no MTG seen
 Scheels|unknown|yes|unknown|https://www.scheels.com/p/pokemon-scarlet-violet-surging-sparks-booster-trading-cards-36pk-box/18493-NDPK41312P/|Pokemon 36pk box $165 out of stock; MTG only a category page with no product pages found
 Kohl's|no|yes|unknown|https://www.kohls.com/product/prd-7699346/pokemon-destined-rivals-trading-card-game-booster-pack.jsp|Pokemon packs and tins; some out of stock; shipping not shown; no MTG seen
+FYE|no|yes|unknown|https://www.fye.com/products/pokemon-mega-evolution-chaos-rising-elite-trainer-box_fye-000000196214154117|Pokemon ETBs $79.99; stock unclear; no MTG seen
