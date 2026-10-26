@@ -1,2 +1,7 @@
 shuffleandcut.com|unknown|product page: Aetherdrift collector booster box
 thegiftofgames.com|unknown|product page: Tarkir Dragonstorm play booster box
+thecombatcompany.com|shopify|product page: Marvel's Spider-Man collector booster box
+redclawgaming.com|shopify|product page: Marvel Super Heroes play booster box
+gatheringmtg.com|woocommerce|product page: Reality Fracture collector booster box
+tistaminis.com|shopify|product page: Foundations Commander Deck Wretched Ranks (country unverified)
+thecardquest.com|shopify|product page: Foundations Reign of Dragons commander deck

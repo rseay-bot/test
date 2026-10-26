@@ -6,3 +6,11 @@ k-mtg.com|unknown|product page: LOTR Tales of Middle-earth draft booster box
 gatheringi.com|woocommerce|product page: LOTR Tales of Middle-earth draft booster box
 boardenzo.com|woocommerce|product page: Commander Masters draft booster box
 scaletrainworld.com|woocommerce|product page: Commander Masters draft booster box (odd pricing)
+tcgport.com|woocommerce|product page: Commander Masters collector booster box
+ralphiesfunhouse.com|shopify|product page: Commander Masters collector booster box
+jjcards.com|unknown|collection page: Ravnica Remastered (shop.jjcards.com) collector booster box
+tatesgaming.company.site|unknown|product page: Murders at Karlov Manor play booster box
+tradingcardsparadise.com|shopify|product page: Outlaws of Thunder Junction play booster box
+toysnowman.com|shopify|product page: Assassin's Creed collector booster box
+floopscollectibles.com|wix|product page: Bloomburrow play booster display
+tcgzen.com|unknown|product page: Bloomburrow collector booster display (tcgplayer-powered store)
