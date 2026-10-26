@@ -1,0 +1,32 @@
+Rural King|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Rural King (ruralking.com)
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|MTG booster box category page (walmart.com)
+Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/shop/magic-the-gathering-card-booster-packs|MTG booster packs category (bestbuy.com)
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|MTG cards category (gamestop.com)
+Amazon|yes|unknown|yes|https://www.amazon.com/magic-gathering-booster-box/s?k=magic+the+gathering+booster+box|MTG booster box search (amazon.com)
+Orscheln Farm and Home|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Orscheln (orschelnfarmhome.com)
+Woot|yes|unknown|yes|https://forums.woot.com/t/magic-the-gathering-booster-box-sets-your-choice/2133465|MTG booster box deal thread (woot.com)
+Blain's Farm and Fleet|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Blain's (farmandfleet.com)
+Walgreens|yes|unknown|yes|https://www.walgreens.com/store/c/wizards-of-the-coast,-inc-magic-the-gathering-dragon's-maze-15-card-booster-pack/ID=prod6168629-product|walgreens.com; MTG booster packs listed (old 2013 set); boxes not seen
+CVS|yes|yes|yes|https://www.instacart.com/products/73618184?retailerSlug=cvs&from_gpp=true|cvs.com; MTG Play Booster pack listed via Instacart; Pokemon category on cvs.com; boxes not seen
+Rite Aid|yes|unknown|store_only|https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/493835-rite-aid-2x-the-pulls|riteaid.com; 2013 forum says packs sold in store; dated, chain largely closed
+Kroger|yes|unknown|yes|https://www.kroger.com/p/magic-the-gathering-march-of-the-machine-set-booster-box-30-packs-360-magic-cards-/0019516620724|kroger.com; many MTG booster box product pages, some unavailable
+Meijer|yes|unknown|yes|https://www.meijer.com/shopping/departments/toys/trading-cards.html|meijer.com; MTG Lorwyn Eclipsed bundle/deck/collector items; no booster box seen
+Target|yes|unknown|unknown|https://mtg.fandom.com/wiki/Resale_pack|target.com; named as big-box store selling MTG resale packs
+ToyWiz|yes|unknown|yes|https://toywiz.com/magic-the-gathering/|toywiz.com; online toy store MTG boosters and boxes
+H-E-B|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions H-E-B (heb.com)
+Publix|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Publix (publix.com)
+Target|yes|unknown|yes|https://www.trackalacker.com/articles/news/magic-the-gathering-star-trek-buying-guide|target.com; Star Trek MTG sealed sold in store and online per guide
+Albertsons|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Albertsons (albertsons.com)
+Safeway|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Safeway (safeway.com)
+Hy-Vee|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Hy-Vee (hy-vee.com)
+Giant Eagle|unknown|unknown|unknown|https://www.amazon.com/mtg-booster-boxes/s?k=mtg+booster+boxes|no result mentions Giant Eagle (gianteagle.com)
+Wegmans|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Wegmans (wegmans.com)
+ShopRite|unknown|unknown|unknown|https://www.amazon.com/magic-gathering-booster-box/s?k=magic+the+gathering+booster+box|no result mentions ShopRite (shoprite.com)
+Stop & Shop|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Stop & Shop (stopandshop.com)
+Food Lion|unknown|unknown|unknown|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|no result mentions Food Lion (foodlion.com)
+Winn-Dixie|unknown|unknown|unknown|https://www.walmart.com/c/kp/booster-box-mtg|no result mentions Winn-Dixie (winndixie.com)
+Fred Meyer|yes|unknown|yes|https://www.fredmeyer.com/p/wizards-of-the-coast-magic-the-gathering-trading-card-game-lord-of-the-rings-set-booster/0019516620500|fredmeyer.com (Kroger banner); MTG booster boxes, bundles, starter kits listed
+Smith's Food and Drug|yes|unknown|yes|https://www.smithsfoodanddrug.com/p/magic-the-gathering-double-masters-draft-booster-box-24-packs-360-cards-1-box-topper/0063050994666|smithsfoodanddrug.com (Kroger banner); MTG booster boxes listed
+Ralphs|yes|unknown|yes|https://www.ralphs.com/p/magic-the-gathering-ixalan-booster-box-36-booster-packs-540-cards-/0076068006517|ralphs.com (Kroger banner); MTG booster boxes listed
+Dollar General|unknown|yes|store_only|https://www.dollargeneral.com/p/pokemon-trading-card-game-evolutions-2-mini-booster-packs-1-bonus-card/728192507083|dollargeneral.com; Pokemon mini booster product pages (instore); MTG not seen
+Dollar Tree|yes|unknown|store_only|https://www.mtgsalvation.com/forums/magic-fundamentals/magic-general/326472-dollar-tree-magic|dollartree.com; 2015 forum on repacked MTG packs; dated

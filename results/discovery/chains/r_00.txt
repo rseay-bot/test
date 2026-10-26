@@ -1,0 +1,58 @@
+Ace Hardware|unknown|yes|unknown|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon in stock per guide; MTG not seen; ace hardware domain acehardware.com
+Dollar General|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon packs on shelves; seller-run guide
+Walgreens|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon booster packs per guide
+CVS|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon booster packs per guide
+Cracker Barrel|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon in retail gift shop
+Dick's Sporting Goods|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|trading cards alongside sports cards
+Academy Sports|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|trading cards alongside sports cards
+Scheels|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|trading cards alongside sports cards
+Big 5 Sporting Goods|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|trading cards alongside sports cards
+7-Eleven|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|loose Pokemon packs near register
+Wawa|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|loose Pokemon packs near register
+Circle K|unknown|yes|store_only|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon booster packs near register
+Costco|unknown|yes|unknown|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon multi-pack bundles
+Sam's Club|unknown|yes|unknown|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|Pokemon multi-pack bundles
+Micro Center|yes|yes|yes|https://www.microcenter.com/site/products/cardsandcollectibles.aspx|Trading cards section lists MTG and Pokemon; microcenter.com
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|MTG collector boxes online; gamestop.com
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/magic-the-gathering-packs|MTG packs category page; walmart.com
+Amazon|yes|unknown|yes|https://draftsim.com/cheap-booster-boxes-mtg/|WotC/Hasbro sell sealed MTG on Amazon; amazon.com
+Target|unknown|yes|unknown|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|most Pokemon stock per stock map; target.com
+Meijer|unknown|yes|store_only|https://restockd.app/pokemon-in-store|Pokemon spotted in stock map
+BJ's Wholesale|unknown|yes|unknown|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Fred Meyer|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Kohl's|unknown|yes|unknown|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+TJ Maxx|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Five Below|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Hobby Lobby|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Michaels|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|Pokemon listed in guide
+Best Buy|unknown|yes|yes|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|exclusive Pokemon TCG products
+Barnes & Noble|unknown|yes|unknown|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|limited Pokemon ETBs and gift sets
+GameStop|unknown|yes|yes|https://www.gamestop.com/pokemon|Pokemon TCG category page
+Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/shop/commander-decks|Commander decks page; bestbuy.com
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/commander-decks|Commander decks category; walmart.com
+CVS|unknown|yes|yes|https://www.cvs.com/shop/brand-shop/p/pokemon|Pokemon brand page lists trading cards; cvs.com
+Walgreens|unknown|yes|yes|https://www.walgreens.com/store/c/productlist/pokemon-trading-cards/N=20001439-2672|Pokemon trading cards product list; walgreens.com
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/toys/pokemon-booster-box/4171_7357538_9574778_4252400_7038039|Pokemon booster boxes browse page
+Speedway|unknown|yes|store_only|https://thecardshopfinder.com/guides/pokemon-tcg/what-stores-sell-pokemon-cards/|packs near register per guide
+London Drugs|unknown|yes|yes|https://www.londondrugs.com/category/pokemon/c/1622|Canadian pharmacy; Pokemon category page
+Walmart|yes|unknown|store_only|https://draftsim.com/mtg-store/|supplemental boosters and bundles per Draftsim
+Target|yes|unknown|store_only|https://draftsim.com/mtg-store/|supplemental boosters and bundles per Draftsim
+CVS|yes|unknown|store_only|https://draftsim.com/mtg-store/|slim MTG selection per Draftsim
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/products/magic-the-gathering-reality-fracture-multiverse-reforged-commander-deck/20035128.html|Commander deck and Play Booster listings
+Amazon|yes|unknown|yes|https://www.amazon.com/magic-gathering-booster-box/s?k=magic+the+gathering+booster+box|Play Booster and Commander bundles listed
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/mtg-sealed-booster-box|MTG sealed booster box listings incl third party
+Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=Magic%3A+The+Gathering+Collector+Booster+Box+sealed|Collector Booster box search page
+Amazon|yes|unknown|yes|https://www.amazon.com/mtg-sealed-booster-box/s?k=mtg+sealed+booster+box|sealed MTG booster boxes
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|MTG booster box category with sale pricing
+Amazon|yes|unknown|yes|https://draftsim.com/cheap-booster-boxes-mtg/|occasional draft/collector box flash sales
+Hill's Wholesale Gaming|yes|unknown|yes|https://draftsim.com/mtg-booster-box-wholesale/|wholesale-style online MTG seller PA
+Dacardworld|yes|unknown|yes|https://www.dacardworld.com/gaming/booster-boxes-from-the-magic-the-gathering-tcg|MTG booster boxes online; dacardworld.com; sports card dealer
+Troll and Toad|yes|unknown|yes|https://draftsim.com/cheap-booster-boxes-mtg/|sealed MTG cheaper per review; online card seller
+Pokemon Center|unknown|yes|yes|https://www.pokemoncenter.com/category/elite-trainer-box|official Pokemon store; pokemoncenter.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-elite-trainer-boxes/20021570.html|ETB product page
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/product/pokemon-trading-card-game-scarlet-violet-prismatic-evolutions-elite-trainer-box/JJG2TLCW3L|Prismatic Evolutions ETB product page
+Target|unknown|yes|yes|https://www.target.com/p/pok-233-mon-trading-card-game-30th-celebration-elite-trainer-box/-/A-1010892076|ETB product page with pickup
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/collectibles/pokemon-trainer-box/5967908_9807313_4252400_9331354|ETB listings
+Ace Hardware|unknown|yes|yes|https://www.acehardware.com/brands/Pokemon|Pokemon ETBs and boosters with store pickup; MTG not seen; acehardware.com
+True Value|unknown|unknown|unknown|https://draftsim.com/best-booster-box-to-buy-mtg/|no evidence found in results; truevalue.com
+Do it Best|unknown|unknown|unknown|https://draftsim.com/best-booster-box-to-buy-mtg/|no evidence found in results; doitbest.com
