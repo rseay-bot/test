@@ -21,3 +21,4 @@ Tractor Supply|unknown|unknown|unknown|https://www.tractorsupply.com/tsc/product
 Fleet Farm|unknown|yes|yes|https://www.fleetfarm.com/brand/pokemon/_/N-1418666303|Pokemon sleeved boosters and ETBs on brand page; fleetfarm.com
 Rural King|unknown|yes|yes|https://www.ruralking.com/pokemon-stellar-crown-sleeved-booster-card-pack-820650859007|Pokemon sleeved booster product page; ruralking.com
 Orscheln Farm and Home|unknown|unknown|unknown|https://www.billboard.com/culture/product-recommendations/pokemon-tcg-30th-celebration-trainer-box-booster-buy-online-1236353092/|no Orscheln evidence found
+Blain's Farm and Fleet|unknown|yes|unknown|https://www.farmandfleet.com/trading-cards/?brand=Pokemon|Pokemon trading cards category page with in-store pickup; farmandfleet.com
