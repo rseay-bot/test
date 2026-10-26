@@ -10,3 +10,4 @@ GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/produ
 Costco|unknown|yes|unknown|https://costcofan.com/costco-pokemon-cards/|fan guide on Pokemon drops in toy aisle; costco.com
 Wegmans|unknown|yes|yes|https://www.instacart.com/store/wegmans/s?k=pokemon+cards+elite+box|Pokemon elite boxes via Instacart delivery; wegmans.com
 Walgreens|unknown|yes|yes|https://www.walgreens.com/store/c/pokemon-trading-card-game,-elite-trainer-box/ID=300455939-product|Pokemon ETB product page; walgreens.com
+ShopRite|unknown|yes|yes|https://www.shoprite.com/sm/delivery/rsid/540/product/pokmon-sword-&-shield-rebel-clash-trading-card-game-booster-pack-6-10-count-00820650104398|Pokemon booster pack product page; shoprite.com
