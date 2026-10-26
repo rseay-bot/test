@@ -11,3 +11,12 @@ Costco|unknown|yes|unknown|https://costcofan.com/costco-pokemon-cards/|fan guide
 Wegmans|unknown|yes|yes|https://www.instacart.com/store/wegmans/s?k=pokemon+cards+elite+box|Pokemon elite boxes via Instacart delivery; wegmans.com
 Walgreens|unknown|yes|yes|https://www.walgreens.com/store/c/pokemon-trading-card-game,-elite-trainer-box/ID=300455939-product|Pokemon ETB product page; walgreens.com
 ShopRite|unknown|yes|yes|https://www.shoprite.com/sm/delivery/rsid/540/product/pokmon-sword-&-shield-rebel-clash-trading-card-game-booster-pack-6-10-count-00820650104398|Pokemon booster pack product page; shoprite.com
+Dick's Sporting Goods|unknown|yes|yes|https://www.dickssportinggoods.com/f/pokemon-trading-cards|Pokemon trading cards category page; dickssportinggoods.com
+Kroger|unknown|yes|unknown|https://www.cardsnearby.com/guides/pokemon-card-vending-machines|listed among grocery chains with Pokemon vending machines
+H-E-B|unknown|yes|unknown|https://www.cardsnearby.com/guides/pokemon-card-vending-machines|listed among grocery chains with Pokemon vending machines
+Food Lion|unknown|yes|yes|https://www.instacart.com/products/22028340-pokemon-xy-steam-siege-booster-trading-cards-10-ct?retailerSlug=food-lion|Pokemon pack on Instacart delivery; foodlion.com
+Fred Meyer|unknown|yes|yes|https://www.fredmeyer.com/q/pokemon+card+booster+box|Pokemon booster bundles and ETBs on product pages; fredmeyer.com
+Smith's Food and Drug|unknown|yes|yes|https://www.smithsfoodanddrug.com/p/pokemon-trading-card-game-scarlet-violet-1-booster-display-box/0082065086324|Pokemon booster display box product page; smithsfoodanddrug.com
+Ralphs|unknown|yes|yes|https://www.ralphs.com/p/pokemon-trading-card-game-sv3-5-scarlet-violet-151-elite-trainer/0082065085315|Pokemon ETB and bundles on product pages; ralphs.com
+Dollar General|unknown|yes|yes|https://www.dollargeneral.com/p/pokemon-trading-card-game-30th-celebration-elite-trainer-box/196214158801|Pokemon ETB tins packs on product pages; booster boxes unlikely; dollargeneral.com
+Dollar Tree|unknown|yes|store_only|https://topbusinessfeed.com/does-dollar-tree-sell-pokemon-cards/|Pokemon packs kept behind counter or by checkout; dollartree.com

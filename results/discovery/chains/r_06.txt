@@ -1,0 +1,12 @@
+Books-A-Million|unknown|yes|yes|https://www.booksamillion.com/search2?query=Pokemon|Pokemon booster display boxes and ETBs on product pages; booksamillion.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/pokemon|Pokemon TCG category page; gamestop.com
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=pokemon+booster+packs|Pokemon booster packs search page; bestbuy.com
+Walmart|unknown|yes|yes|https://www.walmart.com/c/kp/booster-boxes|Booster boxes category page; walmart.com
+Hot Topic|unknown|yes|yes|https://www.hottopic.com/toys-collectibles/games/trading-cards/|Pokemon booster packs on product pages; hottopic.com
+FYE|unknown|yes|yes|https://www.fye.com/collections/trading-cards|Pokemon ETBs and boxes on product pages; fye.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-booster-boxes/20021569.html|Pokemon booster boxes product page
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/toys/pokemon-booster-box/4171_1228478_9574778_4252400_7038039|Pokemon booster box browse page
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/collectibles/pokemon-booster-box/5967908_9807313_4252400_7038039|Pokemon booster boxes and bundles listed; walmart.com
+Target|unknown|yes|yes|https://www.target.com/c/pokemon-trading-cards-card-games-toys/-/N-6llsh|Pokemon booster display boxes and ETBs; in-store near electronics/toys; target.com
+Costco|unknown|yes|yes|https://www.costco.com/p/-/pokmon-evolving-skies-elite-trainer-box-vaporeon-window-tin/100983804|Pokemon ETBs/tins on product pages and in warehouses; costco.com
+Sam's Club|unknown|yes|unknown|https://hotdropstock.com/guides/costco-sams-club-pokemon/|Pokemon cards per Costco/Sam's guide; samsclub.com
