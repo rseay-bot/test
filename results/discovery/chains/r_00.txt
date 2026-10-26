@@ -56,3 +56,5 @@ Walmart|unknown|yes|yes|https://www.walmart.com/browse/collectibles/pokemon-trai
 Ace Hardware|unknown|yes|yes|https://www.acehardware.com/brands/Pokemon|Pokemon ETBs and boosters with store pickup; MTG not seen; acehardware.com
 True Value|unknown|unknown|unknown|https://draftsim.com/best-booster-box-to-buy-mtg/|no evidence found in results; truevalue.com
 Do it Best|unknown|unknown|unknown|https://draftsim.com/best-booster-box-to-buy-mtg/|no evidence found in results; doitbest.com
+Home Depot|unknown|unknown|unknown|https://www.dacardworld.com/gaming/booster-boxes-from-the-magic-the-gathering-tcg|no evidence found in results; homedepot.com
+Lowe's|unknown|unknown|unknown|https://www.dacardworld.com/gaming/booster-boxes-from-the-magic-the-gathering-tcg|no evidence found in results; lowes.com
