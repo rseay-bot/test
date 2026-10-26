@@ -4,3 +4,7 @@ Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|walmart.com
 Macy's|yes|unknown|yes|https://www.macys.com/shop/product/magic-the-gathering-march-of-the-machines-collector-booster-pack?ID=17041789|macys.com; MTG collector booster pack product page (unavailable)
 ToyWiz|yes|unknown|yes|https://toywiz.com/magic-the-gathering/|toywiz.com; online toy retailer with MTG boosters boxes singles
 Newegg|yes|unknown|yes|https://www.newegg.com/Magic-The-Gathering/BrandStore/ID-226351|newegg.com; MTG brand store, mostly marketplace sellers
+Amazon|yes|unknown|yes|https://www.amazon.com/Magic-Gathering-Foundations-Play-Booster/dp/B0D9KYV7B8|amazon.com; MTG play booster boxes on product pages
+Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=magic+gathering+cards+booster+box|bestbuy.com; MTG booster box search results
+Toys R Us|yes|unknown|yes|https://www.toysrus.com/collections/magic-the-gathering|toysrus.com; MTG collection page; Canada clearance in-store reports
+Toynk|unknown|unknown|unknown|https://www.toynk.com/blogs/news/magic-the-gathering-booster-box|toynk.com; MTG booster box buyer guide blog only

@@ -1,0 +1,5 @@
+Harbor Freight|unknown|unknown|unknown|https://www.thingiverse.com/thing:6683625|only storage cases used for MTG decks; no cards seen (harborfreight.com)
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/products/magic-the-gathering-the-hobbit-play-booster-box/20035026.html|MTG Hobbit play booster box product page; gamestop.com
+Amazon|yes|unknown|yes|https://www.amazon.com/Magic-Gathering-Booster-Collectible-Trading/dp/B0GXCBJG9L|MTG booster boxes listed; amazon.com
+Barnes & Noble|yes|yes|yes|https://www.barnesandnoble.com/w/magic-aetherdrift-coll-omega-box-wotc/1146914023|MTG Aetherdrift omega box product page (out of stock online); pokecardhq article on Pokemon; barnesandnoble.com
+Barnes & Noble College|unknown|unknown|unknown|https://www.barnesandnoble.com/b/strategy-games/magic-the-gathering/_/N-1z141wbZ2sgc|no campus-store evidence; consumer B&N only
