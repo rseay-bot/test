@@ -23,3 +23,4 @@ Big 5 Sporting Goods|unknown|yes|store_only|https://x.com/big5since55/status/162
 Amazon|unknown|yes|yes|https://www.amazon.com/pokemon-booster-box/s?k=pokemon+booster+box|Pokemon booster box search results; amazon.com
 Scheels|unknown|yes|yes|https://www.scheels.com/p/pokemon-scarlet-violet-surging-sparks-booster-trading-cards-36pk-box/18493-NDPK41312P/|Pokemon 36pk booster box, bundles, mystery boxes; scheels.com
 Kohl's|unknown|yes|yes|https://www.kohls.com/product/prd-7251768/scarlet-violet-8-booster-three-pack.jsp|Pokemon booster packs/tins on product pages, no booster boxes; kohls.com
+Macy's|unknown|yes|yes|https://www.macys.com/shop/product/pokemon-scarlet-violet-sv10.5-black-bolt-booster-bundle-box?ID=23693032|Pokemon booster bundles and ETBs on product pages; macys.com
