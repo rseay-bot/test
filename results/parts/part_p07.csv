@@ -1,7 +1,7 @@
 cardshows_url,website,confidence,note
 https://cardshows.io/shops/stone-blue-hobbies-hobby-shop-lynchburg,https://stonebluehobbies.com,high,RC/hobby shop official site
 https://cardshows.io/shops/stormxtcg-ventura,https://stormxtcg.com,medium,"domain named in aggregator text, not verified in search results"
-https://cardshows.io/shops/sugoi-stuff-hobbies-and-collectibles-garden-grove,,,none
+https://cardshows.io/shops/sugoi-stuff-hobbies-and-collectibles-garden-grove,,none,"no own website or social found, directory listings only"
 https://cardshows.io/shops/sun-city-games-el-paso,https://www.facebook.com/suncitygames/,social,Facebook only
 https://cardshows.io/shops/sun-valley-gaming-llc-mesa,https://sunvalleygaming.com,medium,"domain from BBB listing text, not verified in search results"
 https://cardshows.io/shops/sunshine-games-magic-the-gathering-pokemon-yu-gi-oh-tampa,https://www.sunshinegamesonline.com,high,official site
@@ -14,24 +14,24 @@ https://cardshows.io/shops/table-salt-games-irvine,https://tablesalt.games,mediu
 https://cardshows.io/shops/tabletop-game-shop-batavia,https://tgstrades.crystalcommerce.com,medium,"Batavia IL; CrystalCommerce store, generic name matched via same-address locator entry"
 https://cardshows.io/shops/tabletop-heaven-ewing-township,https://tabletopheaven.com,high,official site
 https://cardshows.io/shops/tabletop-masters-mt-carmel,https://www.tabletopmasters.com,high,official site
-https://cardshows.io/shops/take-a-chance-tabletop-waterbury,,,none
+https://cardshows.io/shops/take-a-chance-tabletop-waterbury,,none,"only a directory mention, no website or social found"
 https://cardshows.io/shops/tanuki-games-austin,https://www.tanukigamesatx.com,high,official site
 https://cardshows.io/shops/tara-angels-magic-tallahassee,https://www.taraangelsmagic.com,high,official site
 https://cardshows.io/shops/tcg-bunker-largo,https://linktr.ee/tcgbunker,medium,"linktree for TCG Bunker, unclear if same as Largo shop; no shop site found"
-https://cardshows.io/shops/tcg-cards-los-angeles,,,none
-https://cardshows.io/shops/tcg-collectibles-oldsmar,,,none
+https://cardshows.io/shops/tcg-cards-los-angeles,,none,no shop named TCG Cards found in LA directories
+https://cardshows.io/shops/tcg-collectibles-oldsmar,,none,"directory listing only, no website or social found"
 https://cardshows.io/shops/tcg-empire-game-center-corbin,https://tcgempire.com,high,official site
 https://cardshows.io/shops/tcg-exchange-btc-san-antonio,https://www.facebook.com/p/TCG-Exchange-100090027339242/,social,Facebook only; Babcock Rd store inside BesTea Cafe
 https://cardshows.io/shops/tcg-exchange-san-antonio,https://www.facebook.com/p/TCG-Exchange-100090027339242/,social,"Facebook only; Rigsby Ave location, same FB page as BTC store"
-https://cardshows.io/shops/tcg-gaming-machine-cooper-market-kalamazoo,,,none
+https://cardshows.io/shops/tcg-gaming-machine-cooper-market-kalamazoo,,none,no listing found for this shop name at Cooper Market
 https://cardshows.io/shops/tcg-hawaii-llc-hilo,https://www.instagram.com/tcg.hawaii/,social,Instagram only
 https://cardshows.io/shops/tcg-house-of-cards-worcester,https://tcghouseofcards.com,high,official site
-https://cardshows.io/shops/tcg-worldwide-rancho-cucamonga,,,none
+https://cardshows.io/shops/tcg-worldwide-rancho-cucamonga,,none,"no shop by this name found, only unrelated companies"
 https://cardshows.io/shops/tcgport-hillsboro,https://tcgport.com,medium,"online card shop; Oregon filing lists Hillsboro address, link to shop unconfirmed"
 https://cardshows.io/shops/tcgview-com-corpus-christi,https://tcgview.com,medium,domain matches name and LinkedIn ties CEO to it; address conflicts between listings
-https://cardshows.io/shops/techtcg-surprise,,,none
+https://cardshows.io/shops/techtcg-surprise,,none,"no shop named TechTCG found, results only about a Pokemon product"
 https://cardshows.io/shops/tectonic-comics-games-aberdeen,https://www.facebook.com/tectoniccomics/,social,Facebook only
-https://cardshows.io/shops/territorytcg-hopkinsville,,,none
+https://cardshows.io/shops/territorytcg-hopkinsville,,none,no store or site named TerritoryTCG found in Hopkinsville
 https://cardshows.io/shops/the-armoury-wargames-and-hobbies-fairhaven,https://www.thearmourywh.com,high,official site
 https://cardshows.io/shops/the-big-game-llc-amherst,https://www.thebiggameamherst.com,high,official site
 https://cardshows.io/shops/the-booster-box-trading-card-games-virginia-beach,https://theboosterbox.com,high,official site; another source lists shop.theboosterbox.gg
@@ -46,7 +46,7 @@ https://cardshows.io/shops/the-collectors-guild-fan-stand-kiosk-fort-worth,https
 https://cardshows.io/shops/the-comic-cave-brownsville,https://www.facebook.com/TheComicCaveSunriseMall/,social,"Facebook only; chain, Sunrise Mall location"
 https://cardshows.io/shops/the-comic-dimension-greensboro,https://thecomicdimension.com,high,official site
 https://cardshows.io/shops/the-dragons-hoard-murfreesboro,https://www.dragonshoardboro.com,high,official site
-https://cardshows.io/shops/the-experience-share-video-games-alameda,,,none
+https://cardshows.io/shops/the-experience-share-video-games-alameda,,none,"only directory and X mentions found, no website or Facebook"
 https://cardshows.io/shops/the-game-chest-irvine,https://www.facebook.com/GameChestIrvine/,social,Facebook only; address conflicts between listings
 https://cardshows.io/shops/the-gamers-keep-barberton,https://thegamerskeep.com,medium,"Facebook post says shop was sold and closed on a March Sunday, status unclear"
 https://cardshows.io/shops/the-geek-peek-pokemon-mtg-gundam-op-cleveland,https://www.thegeekpeek.com,high,official site
@@ -55,12 +55,12 @@ https://cardshows.io/shops/the-geekery-shawnee,https://geekery.biz,high,official
 https://cardshows.io/shops/the-geeky-oasis-sherwood,https://www.thegeekyoasis.com,high,official site
 https://cardshows.io/shops/the-greater-memphis-magic-arena-memphis,https://themagicarena.com,high,official site
 https://cardshows.io/shops/the-green-dragon-fayetteville,https://www.facebook.com/NCGreenDragon/,social,Facebook only; name shared with unrelated Fayetteville businesses
-https://cardshows.io/shops/the-hideout-cards-and-games-jonesboro,,,none
-https://cardshows.io/shops/the-hobby-exchange-round-rock,,,none
-https://cardshows.io/shops/the-hobby-hideout-san-diego,,,none
+https://cardshows.io/shops/the-hideout-cards-and-games-jonesboro,,none,"only an unverified listing found, placeholder hours, possibly same address as another shop"
+https://cardshows.io/shops/the-hobby-exchange-round-rock,,none,"directory and news mentions only, no website or social found"
+https://cardshows.io/shops/the-hobby-hideout-san-diego,,none,"only a business registration found, no storefront or site"
 https://cardshows.io/shops/the-hobby-hub-dothan,https://thehobhub.com,high,official site
 https://cardshows.io/shops/the-hobby-source-englewood,https://myhobbysource.com,high,"sports and TCG shop, official site"
-https://cardshows.io/shops/the-hobbyist-colony-card-shop-edmond,,,none
+https://cardshows.io/shops/the-hobbyist-colony-card-shop-edmond,,none,"directory listings only, no website or social found"
 https://cardshows.io/shops/the-nerd-merchant-kirkwood,https://thenerdmerchant.com,high,official site
 https://cardshows.io/shops/the-nerd-nook-moreno-valley,https://nerdnooksocal.com,high,official site; consignment and 3D print shop with cards
 https://cardshows.io/shops/the-nerd-place-palmyra,https://mynerdplace.com,medium,"domain stated in listing text, not verified in search results"
@@ -73,10 +73,10 @@ https://cardshows.io/shops/the-upkeep-games-ann-arbor-ann-arbor,https://www.theu
 https://cardshows.io/shops/the-village-geek-manhattan,https://www.villagegeekgames.com,high,"chain, official site for Manhattan store"
 https://cardshows.io/shops/the-village-geek-mcpherson,https://www.villagegeekgames.com,high,"chain, official site for McPherson store"
 https://cardshows.io/shops/the-wandering-dragon-game-puzzle-shoppe-plainfield,https://wanderingdragon.com,high,official site
-https://cardshows.io/shops/thebearessentialstcg-west-jordan,,,none
-https://cardshows.io/shops/thedungeon-great-falls,,,none
+https://cardshows.io/shops/thebearessentialstcg-west-jordan,,none,"name matched an outdoor gear company, not a TCG shop; Game Haven West Jordan may be the intended store"
+https://cardshows.io/shops/thedungeon-great-falls,,none,no shop named The Dungeon found in Great Falls
 https://cardshows.io/shops/theplatypusparty-pokemon-tcg-card-shop-hagerstown,https://theplatypusparty.myshopify.com,high,Shopify store site
-https://cardshows.io/shops/thepokedexbros-fairbanks,,,none
+https://cardshows.io/shops/thepokedexbros-fairbanks,,none,"only a directory listing found, no website or social"
 https://cardshows.io/shops/thieves-guild-gaming-newport,https://www.tiktok.com/@thievesguildgaming,social,TikTok only found; no website or Facebook located
 https://cardshows.io/shops/third-coast-games-friendswood,https://thirdcoastgamestx.com,high,official site
 https://cardshows.io/shops/throwback-gamez-oceanside,https://throwbackgamez.wordpress.com,medium,"mainly retro video games, carries some Pokemon cards"
@@ -89,13 +89,13 @@ https://cardshows.io/shops/titan-cards-and-games-pinellas-park,https://www.titan
 https://cardshows.io/shops/tnlg-the-next-level-games-madison,https://tnlgnashville.com,high,store site announcing move to Madison TN; addresses vary by listing
 https://cardshows.io/shops/to-the-max-tcg-trading-cards-collectables-brooklyn,https://tothemaxcollectables.shop,medium,"online-only shop found, no Brooklyn store located"
 https://cardshows.io/shops/top-choice-gaming-redlands-redlands,https://tcglounge.com,high,official site
-https://cardshows.io/shops/top-deck-cards-games-llc-pleasant-hills,,,none
+https://cardshows.io/shops/top-deck-cards-games-llc-pleasant-hills,,none,"directory and BBB listings only, no website or Facebook found"
 https://cardshows.io/shops/top-deck-games-cherry-hill-township,https://topdeckgamesonline.com,medium,"domain stated in listing text, not verified in search results"
 https://cardshows.io/shops/top-side-gaming-gardiner,https://top-side-gaming.square.site,high,Square store site named in listing text
-https://cardshows.io/shops/top-table-gaming-avon-lake,,,none
+https://cardshows.io/shops/top-table-gaming-avon-lake,,none,"directory, BBB and LGS listings only, no website or social found"
 https://cardshows.io/shops/tournament-city-games-frederick,https://www.tournamentcitygames.gg,high,official site; mall location
 https://cardshows.io/shops/trader-dans-tcg-mount-joy,https://manapool.com/shop/traderdanstcg,medium,"marketplace storefront used as only online presence, no own site found"
 https://cardshows.io/shops/trading-card-games-at-tks-las-vegas,https://tksboba.com,high,boba shop site with TCG section
-https://cardshows.io/shops/trainer-grind-tcg-modesto,,,none
+https://cardshows.io/shops/trainer-grind-tcg-modesto,,none,"only one directory listing, no address or website found"
 https://cardshows.io/shops/treasure-coast-magic-port-st-lucie,https://www.facebook.com/TreasureCoastMagic/,social,Facebook only
 https://cardshows.io/shops/treasure-vault-games-mountain-home,https://www.facebook.com/p/Treasure-Vault-Games-61572944664547/,social,Facebook only; address conflicts between listings
