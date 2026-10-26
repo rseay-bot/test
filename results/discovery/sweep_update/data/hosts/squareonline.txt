@@ -826,3 +826,5 @@ zullys.square.site
 adventuregamesoshkosh.square.site
 celestialgamesflorida.com
 dlairhouston.square.site
+# R59c intake (preorder-phrasing web search; MTG sealed product page seen; routes not yet tested)
+teambsts.com

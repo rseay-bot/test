@@ -2847,3 +2847,5 @@ thekavecollectibles.com
 threeforonetrading.com
 wyldergaming.com
 zehttys.com
+# R59c intake (preorder-phrasing web search; MTG sealed product page seen; routes not yet tested)
+exit23.games
