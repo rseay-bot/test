@@ -1,0 +1,4 @@
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/collectibles/pokemon-booster-box/5967908_9807313_4252400_7038039|Pokemon booster boxes listed online; walmart.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-booster-boxes/20021569.html|Pokemon booster boxes product page; gamestop.com
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=pokemon+booster+box|Pokemon booster box search results; bestbuy.com
+EB Games (GameStop Canada)|unknown|yes|yes|https://www.gamestop.ca/SearchResult/QuickSearch?q=pokemon+cards|Pokemon booster boxes and bundles with prices; gamestop.ca

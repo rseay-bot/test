@@ -12,3 +12,10 @@ Costco|unknown|yes|yes|https://www.costco.com/p/-/pokmon-evolving-skies-elite-tr
 Sam's Club|unknown|yes|unknown|https://hotdropstock.com/guides/costco-sams-club-pokemon/|Pokemon cards per Costco/Sam's guide; samsclub.com
 Sam's Club|unknown|yes|yes|https://www.samsclub.com/ip/Pok-mon-Mew-Elite-Trainer-Box-6-Bonus-Cards/15304308064|Pokemon ETB and bundles on product pages; samsclub.com
 BJ's Wholesale|unknown|yes|yes|https://www.bjs.com/product/pokemon-tcg-sword--shield-lost-origin-booster-box/3000000000004176753/|Pokemon booster box, ETB, premium boxes on product pages; bjs.com
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/product/pokemon-trading-card-game-mega-evolution-perfect-order-booster-box-36-packs/JJG2TL3QWS|Pokemon booster boxes ship or pickup; some in-store only; bestbuy.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-trading-card-game-perfect-order-booster-box/20032538.html|Pokemon booster boxes online or pickup; gamestop.com
+Staples|unknown|yes|yes|https://www.staples.com/wayne-global-llc-pokemon-tcg-refuel-pack-playing-cards-10-cards-pack-wg7082025055/product_24678880|Pokemon packs (Wayne Global) on product pages; no booster boxes seen; staples.com
+Office Depot|unknown|yes|yes|https://www.officedepot.com/a/products/6380998/Pokmon-Trading-Card-Game-Scarlet-andamp/|Pokemon sleeved boosters and tins on product pages; officedepot.com
+Dick's Sporting Goods|unknown|yes|yes|https://www.dickssportinggoods.com/f/pokemon-trading-cards|Pokemon bundles/ETBs/surprise boxes, app drawings; dickssportinggoods.com
+Academy Sports + Outdoors|unknown|yes|yes|https://www.academy.com/c/home-backyard/indoor-fun/trading-sports-cards|Pokemon ETBs, bundles, booster display pack on product pages; academy.com
+Walgreens|unknown|yes|unknown|https://restockd.app/brands/pokemon|Pokemon on shelves per Restockd list; walgreens.com

@@ -21,3 +21,9 @@ Ralphs|unknown|yes|yes|https://www.ralphs.com/p/pokemon-trading-card-game-sv3-5-
 Dollar General|unknown|yes|yes|https://www.dollargeneral.com/p/pokemon-trading-card-game-30th-celebration-elite-trainer-box/196214158801|Pokemon ETB tins packs on product pages; booster boxes unlikely; dollargeneral.com
 Dollar Tree|unknown|yes|store_only|https://topbusinessfeed.com/does-dollar-tree-sell-pokemon-cards/|Pokemon packs kept behind counter or by checkout; dollartree.com
 Family Dollar|unknown|yes|yes|https://sameday.familydollar.com/store/family-dollar/products/90941780-pokemon-10-count-trading-cards-assorted-limit-24-packs|Pokemon packs on same-day delivery listings; familydollar.com
+Five Below|unknown|yes|yes|https://www.fivebelow.com/categories/top-brands/pokemon|Pokemon cards, packs, booster boxes category; fivebelow.com
+Big Lots|unknown|yes|store_only|https://indoorgamebunker.com/does-big-lots-sell-pokemon-cards/|dated blog: third-party Pokemon packs near clearance; no official boxes seen; bigl ots may be closed
+Ollie's Bargain Outlet|unknown|yes|store_only|https://www.playbite.com/q/does-ollies-sell-pokemon-cards|closeout stock hit or miss per shopper reports; ollies.com
+Michaels|unknown|yes|yes|https://www.michaels.com/product/pokemon-trading-card-game-scarlet-violet-twilight-masquerade-booster-pack-10763749|Pokemon packs bundles tins on product pages; no booster box seen; michaels.com
+Hobby Lobby|unknown|yes|yes|https://www.hobbylobby.com/c/dc-pokemon|Pokemon category with packs and box sets; near registers in store; hobbylobby.com
+Barnes & Noble|unknown|yes|yes|https://www.barnesandnoble.com/w/pokemon-mega-evolution-s1-booster-bundle-box-pokemon/1148312555|Pokemon booster bundle box product page; barnesandnoble.com
