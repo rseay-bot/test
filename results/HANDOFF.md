@@ -39,6 +39,13 @@ the site or the project, so how the site is fed with stores is UNKNOWN. Ask the 
   greatescapeadventures.com), 1 possibly non-US (tistaminis.com), 23 unknown platform.
 - Staged files: results/discovery/sweep_update/ and sweep_add_plan.json.
 
+## Update R59b (version 23 of the sweep tool page)
+- Added 40 more search-verified Magic sealed stores to the tool lists: 28 Shopify, 5 WooCommerce, 3 Square Online,
+  2 Wix, 1 Lightspeed, 1 BigCommerce. 4 skipped as name twins. 39 have no readable platform and are in
+  results/discovery/verified_unknown_platform_stores.txt (6 of them CrystalCommerce, which needs the local fetch leg).
+- Total added to the tool this session: 107 (67 in R59 + 40 in R59b), all routes untested.
+- Preorder-phrasing search (product3/rr_00 to 02, 86 queries) was cut off by the usage limit; resume scheduled for 05:55 UTC.
+
 ## Open items
 1. How does alerts.power10cards.com get its stores (does it read the sweep tool lists)? Add stores there.
 2. Run the sweep tool (python3 -m mtgsweep run --profile sealed) from a machine with internet on the new

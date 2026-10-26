@@ -925,3 +925,9 @@ scaletrainworld.com
 scryandbuy.com
 tcgport.com
 vstcg.com
+# R59b intake (hosts with a confirmed MTG sealed product page via web search verification; routes not yet tested)
+blusportscards.com
+cardboardgarage.com
+comics-n-stuff.com
+frostsportscardaddicts.com
+nyhccomics.com

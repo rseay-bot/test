@@ -111,3 +111,5 @@ y2playstores.com
 yourhobbyplace.com
 # R59 intake (product-title web search: each host had an MTG sealed product page in search results; routes not yet tested)
 ampedairsoft.com
+# R59b intake (hosts with a confirmed MTG sealed product page via web search verification; routes not yet tested)
+the-gathering-place.mybigcommerce.com

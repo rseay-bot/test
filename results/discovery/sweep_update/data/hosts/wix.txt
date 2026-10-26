@@ -402,3 +402,6 @@ mtgwolf.com
 rocksockscollectibles.com
 sessionzeroweatherford.com
 thetcgclub.com
+# R59b intake (hosts with a confirmed MTG sealed product page via web search verification; routes not yet tested)
+gameonmichigan.com
+hexnyc.com

@@ -9,10 +9,10 @@ HOSTS = os.path.join(DATA, "hosts")
 PLATFORMS = ("shopify", "woocommerce", "shadowpos", "wix", "bigcommerce", "squarespace", "crystalcommerce",
              "squareonline", "lightspeed", "jsonld", "godaddy", "retailer")
 
-# Expected master sizes after the 2026-09-23 purge, R46/R47 intakes, R48 blocks, R51 Square/Lightspeed routes + discovery, R52 WPN/Ravensburger/locator intake + JSON-LD route, R53 GoDaddy store route (+22), headless Shopify (+3), big-retailer route (3), R54 comic shop / Konami intake (+20), R55 Overture Maps intake (+793), R59 product-title web search intake (+67). A mismatch means a bad reload or an unrecorded edit.
-EXPECTED = {"shopify": 2819, "woocommerce": 926, "shadowpos": 59, "wix": 403, "bigcommerce": 112,
+# Expected master sizes after the 2026-09-23 purge, R46/R47 intakes, R48 blocks, R51 Square/Lightspeed routes + discovery, R52 WPN/Ravensburger/locator intake + JSON-LD route, R53 GoDaddy store route (+22), headless Shopify (+3), big-retailer route (3), R54 comic shop / Konami intake (+20), R55 Overture Maps intake (+793), R59 product-title web search intake (+67), R59b search-verified intake (+40). A mismatch means a bad reload or an unrecorded edit.
+EXPECTED = {"shopify": 2847, "woocommerce": 931, "shadowpos": 59, "wix": 405, "bigcommerce": 113,
             "squarespace": 558, "crystalcommerce": 698, "blocklist": 956,
-            "squareonline": 824, "lightspeed": 203, "jsonld": 72, "godaddy": 138, "retailer": 3}
+            "squareonline": 827, "lightspeed": 204, "jsonld": 72, "godaddy": 138, "retailer": 3}
 
 # CrystalCommerce infrastructure / exchange sub-sites, not storefronts
 CC_INFRA = re.compile(r"^(cdn\d*|crystal-cdn\d*|cloudfront|ns\d+|store|explore|expo\w*|exchange[\w-]*|"
