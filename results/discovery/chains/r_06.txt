@@ -19,3 +19,5 @@ Office Depot|unknown|yes|yes|https://www.officedepot.com/a/products/6380998/Pokm
 Dick's Sporting Goods|unknown|yes|yes|https://www.dickssportinggoods.com/f/pokemon-trading-cards|Pokemon bundles/ETBs/surprise boxes, app drawings; dickssportinggoods.com
 Academy Sports + Outdoors|unknown|yes|yes|https://www.academy.com/c/home-backyard/indoor-fun/trading-sports-cards|Pokemon ETBs, bundles, booster display pack on product pages; academy.com
 Walgreens|unknown|yes|unknown|https://restockd.app/brands/pokemon|Pokemon on shelves per Restockd list; walgreens.com
+Big 5 Sporting Goods|unknown|yes|store_only|https://x.com/big5since55/status/1624833255068295170|Official 2023 post says Pokemon cards available in stores; call to check; big5sportinggoods.com
+Amazon|unknown|yes|yes|https://www.amazon.com/pokemon-booster-box/s?k=pokemon+booster+box|Pokemon booster box search results; amazon.com
