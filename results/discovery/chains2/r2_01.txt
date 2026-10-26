@@ -5,3 +5,4 @@ Office Depot|no|no|unknown||officedepot.com shows only card binder pages/supplie
 Staples|no|no|unknown|https://www.staples.com/wayne-global-llc-pokemon-tcg-refuel-pack-playing-cards-10-cards-pack-wg7082025055/product_24678880|only marketplace Pokemon Refuel repack (not factory sealed); mostly binder pages
 Academy Sports + Outdoors|no|yes|unknown|https://www.academy.com/p/pok-mon-trading-card-game-mega-evolutions-25-ascended-heroes-elite-trainer|Pokemon ETB and collection boxes; shipping not shown; no MTG seen
 Dick's Sporting Goods|no|yes|unknown|https://www.dickssportinggoods.com/p/pokmon-tcg-mega-pitch-black-evolution-elite-trainer-box-26pokucasukh5oiwgiw1g/26pokucasukh5oiwgiw1g|Pokemon ETBs with prices ($80); app raffles; no MTG seen
+Scheels|unknown|yes|unknown|https://www.scheels.com/p/pokemon-scarlet-violet-surging-sparks-booster-trading-cards-36pk-box/18493-NDPK41312P/|Pokemon 36pk box $165 out of stock; MTG only a category page with no product pages found
