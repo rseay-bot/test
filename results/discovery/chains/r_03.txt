@@ -1,3 +1,6 @@
 Scheels|yes|unknown|yes|https://www.scheels.com/c/all/b/magic%3a%20the%20gathering|scheels.com; MTG collector boosters and category page, ship-to-home
 GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|gamestop.com; MTG cards category page
 Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|walmart.com; MTG booster box listings
+Macy's|yes|unknown|yes|https://www.macys.com/shop/product/magic-the-gathering-march-of-the-machines-collector-booster-pack?ID=17041789|macys.com; MTG collector booster pack product page (unavailable)
+ToyWiz|yes|unknown|yes|https://toywiz.com/magic-the-gathering/|toywiz.com; online toy retailer with MTG boosters boxes singles
+Newegg|yes|unknown|yes|https://www.newegg.com/Magic-The-Gathering/BrandStore/ID-226351|newegg.com; MTG brand store, mostly marketplace sellers

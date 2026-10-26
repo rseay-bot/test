@@ -7,3 +7,4 @@ collect-roll.myshopify.com|shopify|product page: Commander Masters set booster d
 toytooth.com|shopify|product page: Wilds of Eldraine draft booster box 36 packs
 bajagoblingames.com|shopify|product page: Lost Caverns of Ixalan draft booster display box
 origin-gaming.com|woocommerce|product page: Lost Caverns of Ixalan draft booster box
+playpartyboard.com|woocommerce|product page: Ravnica Remastered draft booster box
