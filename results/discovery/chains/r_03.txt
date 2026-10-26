@@ -1,0 +1,3 @@
+Scheels|yes|unknown|yes|https://www.scheels.com/c/all/b/magic%3a%20the%20gathering|scheels.com; MTG collector boosters and category page, ship-to-home
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|gamestop.com; MTG cards category page
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|walmart.com; MTG booster box listings

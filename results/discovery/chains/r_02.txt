@@ -4,3 +4,10 @@ Five Below|no|unknown|yes|https://www.fivebelow.com/products/presstine-pressti-p
 Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=magic+gathering+cards+booster+box|MTG booster box search page; bestbuy.com
 Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|MTG booster box category page; walmart.com
 Amazon|yes|unknown|yes|https://www.amazon.com/stores/MagicTheGathering/page/24D43315-C5B6-4E65-9C6B-8F7F00B40E51|Official MTG store page with set boosters; amazon.com
+Barnes & Noble|yes|unknown|yes|https://www.barnesandnoble.com/w/magic-aetherdrift-bundle-wotc/1146707093|MTG bundle and collector box product pages (out of stock online); barnesandnoble.com
+Books-A-Million|yes|unknown|yes|https://www.booksamillion.com/tradingcards|MTG set/collector boosters and boxes on product pages; booksamillion.com
+Half Price Books|yes|unknown|yes|https://www.hpb.com/collectibles/trending-topics/magic-the-gathering|MTG trending page with decks and packs; booster boxes not seen; hpb.com
+Hot Topic|yes|unknown|yes|https://www.hottopic.com/product/magic-the-gathering-lorwyn-eclipsed-play-booster-bundle/36019182.html|MTG packs and bundles on product pages; full boxes not seen; hottopic.com
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/magic-the-gathering-packs|MTG play/collector/jumpstart boxes on product pages (some third-party sellers); walmart.com
+Target|yes|unknown|yes|https://www.target.com/p/magic-the-gathering-bloomburrow-play-booster-display-box/-/A-1010892064|MTG play booster display and collector boosters on product pages; target.com
+Costco|yes|unknown|yes|https://www.costco.com/magic:-the-gathering---final-fantasy-booster-box-bundle.product.4201037766.html|MTG booster box bundle, commander kits, tins on product pages; costco.com

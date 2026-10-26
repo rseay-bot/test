@@ -5,3 +5,5 @@ rcpartsmart.com|woocommerce|product page: March of the Machine draft booster box
 tcgvaultx.com|unknown|product page: Commander Masters set booster display
 collect-roll.myshopify.com|shopify|product page: Commander Masters set booster display preorder
 toytooth.com|shopify|product page: Wilds of Eldraine draft booster box 36 packs
+bajagoblingames.com|shopify|product page: Lost Caverns of Ixalan draft booster display box
+origin-gaming.com|woocommerce|product page: Lost Caverns of Ixalan draft booster box
