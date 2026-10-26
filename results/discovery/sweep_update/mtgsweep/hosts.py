@@ -9,8 +9,8 @@ HOSTS = os.path.join(DATA, "hosts")
 PLATFORMS = ("shopify", "woocommerce", "shadowpos", "wix", "bigcommerce", "squarespace", "crystalcommerce",
              "squareonline", "lightspeed", "jsonld", "godaddy", "retailer")
 
-# Expected master sizes after the 2026-09-23 purge, R46/R47 intakes, R48 blocks, R51 Square/Lightspeed routes + discovery, R52 WPN/Ravensburger/locator intake + JSON-LD route, R53 GoDaddy store route (+22), headless Shopify (+3), big-retailer route (3), R54 comic shop / Konami intake (+20), R55 Overture Maps intake (+793), R59 product-title web search intake (+67), R59c preorder-search intake (+4), R59b search-verified intake (+40). A mismatch means a bad reload or an unrecorded edit.
-EXPECTED = {"shopify": 2848, "woocommerce": 931, "shadowpos": 59, "wix": 407, "bigcommerce": 113,
+# Expected master sizes after the 2026-09-23 purge, R46/R47 intakes, R48 blocks, R51 Square/Lightspeed routes + discovery, R52 WPN/Ravensburger/locator intake + JSON-LD route, R53 GoDaddy store route (+22), headless Shopify (+3), big-retailer route (3), R54 comic shop / Konami intake (+20), R55 Overture Maps intake (+793), R59 product-title web search intake (+67), R59d round-2 search intake (+9), R59c preorder-search intake (+4), R59b search-verified intake (+40). A mismatch means a bad reload or an unrecorded edit.
+EXPECTED = {"shopify": 2854, "woocommerce": 934, "shadowpos": 59, "wix": 407, "bigcommerce": 113,
             "squarespace": 558, "crystalcommerce": 698, "blocklist": 956,
             "squareonline": 828, "lightspeed": 204, "jsonld": 72, "godaddy": 138, "retailer": 3}
 

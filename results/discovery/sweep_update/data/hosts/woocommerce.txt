@@ -931,3 +931,7 @@ cardboardgarage.com
 comics-n-stuff.com
 frostsportscardaddicts.com
 nyhccomics.com
+# R59d intake (round 2 booster box and Commander deck web search; MTG sealed product page seen; routes not yet tested)
+actionpackedcomics.com
+meepleopolis.com
+tablegamepath.com
