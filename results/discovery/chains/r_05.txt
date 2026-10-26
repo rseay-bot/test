@@ -1,0 +1,12 @@
+Publix|unknown|yes|store_only|https://www.playbite.com/q/does-publix-sell-pokemon-cards|community post says hit or miss near checkout/toys; publix.com
+Walmart|unknown|yes|yes|https://www.walmart.com/browse/toys/pokemon-booster-box/4171_7357538_9574778_4252400_7038039|Pokemon booster boxes browse page; walmart.com
+Best Buy|unknown|yes|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=pokemon+booster+box|Pokemon booster box search; bestbuy.com
+Albertsons|unknown|yes|yes|https://www.albertsons.com/shop/product-details.970687747.html|Pokemon ETB and packs on product pages; albertsons.com
+Vons|unknown|yes|store_only|https://x.com/PokemonRestocks/status/1767274700340641951?lang=en|Pokemon TCG vending machines in CA; vons.com
+Food 4 Less|unknown|yes|store_only|https://x.com/PokemonRestocks/status/1767274700340641951?lang=en|Pokemon TCG vending machines in CA
+Safeway|unknown|yes|yes|https://www.safeway.com/shop/product-details.971053610.html|Pokemon collection and packs on product pages; safeway.com
+Hy-Vee|unknown|yes|yes|https://www.hy-vee.com/aisles-online/p/3806803/pokemon-trading-card-game-annihilape-ex-box|Pokemon ex box product page; hy-vee.com
+GameStop|unknown|yes|yes|https://www.gamestop.com/toys-games/trading-cards/products/pokemon-booster-boxes/20021569.html|Pokemon booster boxes category; gamestop.com
+Costco|unknown|yes|unknown|https://costcofan.com/costco-pokemon-cards/|fan guide on Pokemon drops in toy aisle; costco.com
+Wegmans|unknown|yes|yes|https://www.instacart.com/store/wegmans/s?k=pokemon+cards+elite+box|Pokemon elite boxes via Instacart delivery; wegmans.com
+Walgreens|unknown|yes|yes|https://www.walgreens.com/store/c/pokemon-trading-card-game,-elite-trainer-box/ID=300455939-product|Pokemon ETB product page; walgreens.com

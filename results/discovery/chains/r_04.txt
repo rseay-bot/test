@@ -22,3 +22,13 @@ Fleet Farm|unknown|yes|yes|https://www.fleetfarm.com/brand/pokemon/_/N-141866630
 Rural King|unknown|yes|yes|https://www.ruralking.com/pokemon-stellar-crown-sleeved-booster-card-pack-820650859007|Pokemon sleeved booster product page; ruralking.com
 Orscheln Farm and Home|unknown|unknown|unknown|https://www.billboard.com/culture/product-recommendations/pokemon-tcg-30th-celebration-trainer-box-booster-buy-online-1236353092/|no Orscheln evidence found
 Blain's Farm and Fleet|unknown|yes|unknown|https://www.farmandfleet.com/trading-cards/?brand=Pokemon|Pokemon trading cards category page with in-store pickup; farmandfleet.com
+Walgreens|unknown|yes|yes|https://www.walgreens.com/store/c/pokemon-trading-card-game,-elite-trainer-box/ID=300455939-product|Pokemon ETB and packs product pages; walgreens.com
+CVS|unknown|yes|unknown|https://doubleholo.com/articles/where-to-find-pokemon-cards-alternative-stores|listed as carrying Pokemon in alt-store guide; cvs.com
+Dollar General|unknown|yes|unknown|https://restockd.app/pokemon-in-store|stock tracker says carries Pokemon cards; dollargeneral.com
+CVS|unknown|yes|yes|https://www.cvs.com/shop/pok-mon-poke-ball-tin-with-3-trading-card-packs-coin-blind-capsule-prodid-444357|Pokemon tins/booster packs product pages; cvs.com
+Rite Aid|unknown|yes|store_only|https://www.newsweek.com/where-buy-rare-pokemon-cards-target-suspends-sales-fight-1593670|older Newsweek list names Rite Aid for Pokemon cards; chain mostly closed
+ShopRite|unknown|yes|yes|https://www.shoprite.com/sm/delivery/rsid/540/product/pokmon-sword-&-shield-rebel-clash-trading-card-game-booster-pack-6-10-count-00820650104398|Pokemon booster pack on delivery product page; shoprite.com
+Kroger|unknown|yes|yes|https://www.kroger.com/p/pokemon-trading-card-game-sv4-paradox-rift-booster-bundle/0082065085412|Pokemon booster bundles on product pages; kroger.com
+Meijer|unknown|yes|store_only|https://www.meijer.com/shopping/departments/toys/trading-cards.html|Pokemon boxes/bundles/tins product pages with aisle info; meijer.com
+Costco|unknown|yes|unknown|https://restockd.app/pokemon-in-store|stock tracker lists Costco Pokemon spottings; costco.com
+H-E-B|unknown|yes|yes|https://www.heb.com/product-detail/pok-mon-sword-shield-lost-origin-elite-trainer-box/7448027|Pokemon ETB, boosters, tins on product pages; heb.com
