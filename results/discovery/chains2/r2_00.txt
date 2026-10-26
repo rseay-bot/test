@@ -1,0 +1,8 @@
+Ace Hardware|no|yes|pickup_only|https://www.acehardware.com/departments/home-and-decor/novelty-items/toys-and-games/9126575|Pokemon ETB $59.99 in stock; free store pickup noted; no MTG seen
+Lowe's|no|yes|unknown|https://www.lowes.com/pd/Pokemon-Pokmon-TCG-Scarlet-Violet-Prismatic-Evolutions-Elite-Trainer-Box/5016978801|Pokemon ETB page on lowes.com; shipping not shown; no MTG seen
+Menards|no|yes|unknown|https://www.menards.com/main/outdoors/outdoor-recreation/camping-rv-supplies/playing-cards/pokmon-trade-trading-card-game-mega-latias-ex-box/1010130108/p-1642874373769067-c-6506.htm|Pokemon ex boxes and tins on menards.com; shipping not shown; no MTG seen
+Rural King|unknown|unknown|unknown||no card pages found on ruralking.com in any search
+Fleet Farm|no|yes|pickup_only|https://www.fleetfarm.com/detail/pokemon-scarlet-violet-twilight-masquerade-elite-trainer-box/0000101864063|ETB $49.99; page says not available for ship-to-home; no MTG seen
+Albertsons|no|yes|pickup_only|https://www.albertsons.com/shop/pd/excell-marketing-pokemon-elite-trainer-box-each/970687747|Pokemon ETB and packs listed; some in-store only or out of stock; delivery or Drive Up and Go; no MTG seen
+Safeway|no|yes|unknown|https://www.safeway.com/shop/product-details.970687747.html|Pokemon ETB and packs listed on safeway.com; no price or shipping shown; no MTG seen
+Hy-Vee|no|yes|unknown|https://www.hy-vee.com/aisles-online/p/3806803/pokemon-trading-card-game-annihilape-ex-box|Annihilape ex box $22.99 on Aisles Online; shipping not shown; no MTG seen
