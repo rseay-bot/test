@@ -11,3 +11,7 @@ Hot Topic|yes|unknown|yes|https://www.hottopic.com/product/magic-the-gathering-l
 Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/magic-the-gathering-packs|MTG play/collector/jumpstart boxes on product pages (some third-party sellers); walmart.com
 Target|yes|unknown|yes|https://www.target.com/p/magic-the-gathering-bloomburrow-play-booster-display-box/-/A-1010892064|MTG play booster display and collector boosters on product pages; target.com
 Costco|yes|unknown|yes|https://www.costco.com/magic:-the-gathering---final-fantasy-booster-box-bundle.product.4201037766.html|MTG booster box bundle, commander kits, tins on product pages; costco.com
+Sam's Club|yes|yes|yes|https://www.samsclub.com/ip/magic-the-gathering-final-fantasy-deck-builder-play-box/19834809746|MTG deck builder boxes and boosters on product pages; Pokemon Prismatic Evolutions Sam's exclusive per StockX; samsclub.com
+Best Buy|yes|yes|yes|https://www.bestbuy.com/site/shop/booster-boxes|MTG play/collector box product pages; category covers Pokemon too; bestbuy.com
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/products/magic-the-gathering-reality-fracture-play-booster-box/20035127.html|MTG play and collector booster box product pages; gamestop.com
+Dick's Sporting Goods|no|yes|yes|https://www.dickssportinggoods.com/f/pokemon-trading-cards|Pokemon booster packs and ETBs category; no MTG seen; dickssportinggoods.com
