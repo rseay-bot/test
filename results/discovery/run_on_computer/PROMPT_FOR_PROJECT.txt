@@ -1,0 +1,16 @@
+Load the "mtgsweep CLI" artifact (https://claude.ai/artifact/LkJVcAgVbr3gM47tRgc6wd) to disk: read every file in
+its manifest and copy the folder to /home/claude/mtgsweep. Run `python3 -m mtgsweep preflight` and
+`python3 tests/test_matchers.py`.
+
+Then I am attaching three files: test_new_hosts.py (put it in tools/), cand_added.json and cand_pending.json
+(put them in the tool folder). Run both tests from the cloud, one after the other, under nohup:
+
+  nohup python3 tools/test_new_hosts.py cand_added.json sealed added_out.jsonl 1500 > added.log 2>&1 &
+  nohup python3 tools/test_new_hosts.py cand_pending.json sealed pending_out.jsonl 1500 > pending.log 2>&1 &
+
+When they finish, give me two tables.
+1) added_out.jsonl: for each of the ~120 stores, status, rows, tgt_in_stock, country. List the stores whose status
+   is not ok, or whose country is not US, so I can remove them from data/hosts/<platform>.txt.
+2) pending_out.jsonl: list only stores with status ok, rows > 0 and country US. Those are safe to add to the
+   right data/hosts/<platform>.txt (update EXPECTED in mtgsweep/hosts.py, rerun preflight, then republish the artifact).
+Do not change the host lists until I approve the changes.

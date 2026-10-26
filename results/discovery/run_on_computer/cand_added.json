@@ -664,5 +664,59 @@
 "final": "teambsts.com",
 "platform": "squareonline",
 "group": "added"
+},
+{
+"host": "adcardcollectibles.com",
+"final": "adcardcollectibles.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "etowntecgaming.com",
+"final": "etowntecgaming.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "g2gcollect.com",
+"final": "g2gcollect.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "gameknightnh.com",
+"final": "gameknightnh.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "hobbybastion.com",
+"final": "hobbybastion.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "monstersandmana.com",
+"final": "monstersandmana.com",
+"platform": "shopify",
+"group": "added"
+},
+{
+"host": "actionpackedcomics.com",
+"final": "actionpackedcomics.com",
+"platform": "woocommerce",
+"group": "added"
+},
+{
+"host": "meepleopolis.com",
+"final": "meepleopolis.com",
+"platform": "woocommerce",
+"group": "added"
+},
+{
+"host": "tablegamepath.com",
+"final": "tablegamepath.com",
+"platform": "woocommerce",
+"group": "added"
 }
 ]
