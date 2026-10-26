@@ -6,3 +6,5 @@ Fleet Farm|no|yes|pickup_only|https://www.fleetfarm.com/detail/pokemon-scarlet-v
 Albertsons|no|yes|pickup_only|https://www.albertsons.com/shop/pd/excell-marketing-pokemon-elite-trainer-box-each/970687747|Pokemon ETB and packs listed; some in-store only or out of stock; delivery or Drive Up and Go; no MTG seen
 Safeway|no|yes|unknown|https://www.safeway.com/shop/product-details.970687747.html|Pokemon ETB and packs listed on safeway.com; no price or shipping shown; no MTG seen
 Hy-Vee|no|yes|unknown|https://www.hy-vee.com/aisles-online/p/3806803/pokemon-trading-card-game-annihilape-ex-box|Annihilape ex box $22.99 on Aisles Online; shipping not shown; no MTG seen
+H-E-B|no|yes|unknown|https://www.heb.com/product-detail/pok-mon-sword-shield-lost-origin-elite-trainer-box/7448027|Pokemon ETB $44.98 and tins on heb.com; shipping not shown; no MTG seen
+ShopRite|no|yes|unknown||Pokemon booster pack $6.99 on shoprite.com per snippet; product URL not shown; Instacart delivery only; no MTG seen
