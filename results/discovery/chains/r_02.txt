@@ -3,3 +3,4 @@ GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic
 Five Below|no|unknown|yes|https://www.fivebelow.com/products/presstine-pressti-pack-trading-cards-booster-packs--styles-may-vary--9186246|Only generic non-MTG trading card packs seen; fivebelow.com
 Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=magic+gathering+cards+booster+box|MTG booster box search page; bestbuy.com
 Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|MTG booster box category page; walmart.com
+Amazon|yes|unknown|yes|https://www.amazon.com/stores/MagicTheGathering/page/24D43315-C5B6-4E65-9C6B-8F7F00B40E51|Official MTG store page with set boosters; amazon.com
