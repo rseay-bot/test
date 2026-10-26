@@ -1,0 +1,5 @@
+Dollar Tree|unknown|yes|store_only|https://www.tumblr.com/askagamedev/182738690271/i-worked-in-a-dollar-tree-and-one-of-the-most|Pokemon packs popular per ex-employee; MTG repacks only anecdotal forum posts; dollartree.com
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|MTG cards category page; gamestop.com
+Five Below|no|unknown|yes|https://www.fivebelow.com/products/presstine-pressti-pack-trading-cards-booster-packs--styles-may-vary--9186246|Only generic non-MTG trading card packs seen; fivebelow.com
+Best Buy|yes|unknown|yes|https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=magic+gathering+cards+booster+box|MTG booster box search page; bestbuy.com
+Walmart|yes|unknown|yes|https://www.walmart.com/c/kp/booster-box-mtg|MTG booster box category page; walmart.com

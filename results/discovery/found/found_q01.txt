@@ -2,3 +2,5 @@ makingmythic.com|shopify|product page: Kamigawa Neon Dynasty draft booster displ
 mystideck.com|woocommerce|product page: Dominaria Remastered draft booster box
 mythicvault.com|woocommerce|product page: Unfinity draft booster box 36 boosters
 rcpartsmart.com|woocommerce|product page: March of the Machine draft booster box
+tcgvaultx.com|unknown|product page: Commander Masters set booster display
+collect-roll.myshopify.com|shopify|product page: Commander Masters set booster display preorder
