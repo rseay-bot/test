@@ -3,3 +3,5 @@ GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/produ
 Amazon|yes|unknown|yes|https://www.amazon.com/Magic-Gathering-Booster-Collectible-Trading/dp/B0GXCBJG9L|MTG booster boxes listed; amazon.com
 Barnes & Noble|yes|yes|yes|https://www.barnesandnoble.com/w/magic-aetherdrift-coll-omega-box-wotc/1146914023|MTG Aetherdrift omega box product page (out of stock online); pokecardhq article on Pokemon; barnesandnoble.com
 Barnes & Noble College|unknown|unknown|unknown|https://www.barnesandnoble.com/b/strategy-games/magic-the-gathering/_/N-1z141wbZ2sgc|no campus-store evidence; consumer B&N only
+Walmart|yes|unknown|yes|https://www.walmart.com/browse/collectibles/magic-the-gathering-trading-cards/5967908_9807313_1433259|MTG trading cards browse page; walmart.com
+GameStop|yes|unknown|yes|https://www.gamestop.com/toys-games/trading-cards/magic-the-gathering-cards|MTG cards category page; gamestop.com
